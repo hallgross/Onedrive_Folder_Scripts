@@ -110,15 +110,186 @@ Email Campaign
 // Weekly Post Counter
 =COUNTIFS(B2:B8,"Instagram")
 ```
+# FAITH OVER FEAR - SHEET DESCRIPTIONS & SETUP GUIDE
 
-Would you like me to:
-1. Add more specific tracking formulas?
-2. Create automated status update rules?
-3. Add engagement calculation formulas?
-4. Set up cross-sheet reference formulas?
+## 1. CONTENT CALENDAR TAB
+```markdown
+Purpose: Daily/weekly/monthly content planning and tracking
 
-To use these templates:
-1. Create new Google Sheets
-2. Copy each section as a new tab
-3. Apply the formulas and validations
-4. Customize the drop-down options as needed
+Key Columns:
+1. Date
+   - Format: MM/DD/YYYY
+   - Use for scheduling all content
+   - Color code by month
+
+2. Platform
+   - Track where content will be posted
+   - Include specific placement (Feed, Story, Reel)
+   - Note any cross-posting
+
+3. Content Type
+   - Product Photos
+   - Lifestyle Images
+   - Customer Reviews
+   - Scripture Graphics
+   - Behind-the-Scenes
+   - Product Launches
+
+4. Status Tracking
+   - Planning: Initial concept stage
+   - In Progress: Being created/edited
+   - Ready: Approved and scheduled
+   - Posted: Live on platform
+   - Need Revision: Changes required
+
+5. Performance Metrics
+   - Views/Impressions
+   - Engagement Rate
+   - Click-through Rate
+   - Sales Conversions
+```
+
+## 2. AI PROMPTS LIBRARY
+```markdown
+Purpose: Track and refine AI-generated content
+
+Sections:
+1. Prompt Type
+   - Product Photography
+   - Lifestyle Scenes
+   - Video Concepts
+   - Voice Over Scripts
+
+2. Result Rating System
+   - 5: Perfect, use as is
+   - 4: Minor adjustments needed
+   - 3: Good base, needs work
+   - 2: Requires major revision
+   - 1: Not usable
+
+3. Success Patterns
+   - Track what works
+   - Note specific keywords
+   - Document style preferences
+   - Record lighting descriptions
+```
+
+## 3. PRODUCT TRACKING
+```markdown
+Purpose: Monitor product development and performance
+
+Track:
+1. Product Details
+   - SKU/Item Number
+   - Color Variations
+   - Size Options
+   - Price Points
+
+2. Sample Status
+   - Order Date
+   - Tracking Number
+   - Receipt Date
+   - Quality Check Results
+   - Approval Status
+
+3. Performance Metrics
+   - Sales Volume
+   - Customer Feedback
+   - Return Rate
+   - Profit Margins
+```
+
+## 4. HASHTAG STRATEGY
+```markdown
+Purpose: Organize and track hashtag performance
+
+Categories:
+1. Brand Hashtags
+   - #FaithOverFear
+   - #FOFApparel
+   - Product-specific tags
+
+2. Community Hashtags
+   - Faith-based
+   - Inspirational
+   - Fashion/Style
+   - Christian Community
+
+3. Performance Tracking
+   - Reach per hashtag
+   - Engagement rates
+   - Best performing combinations
+   - Trending opportunities
+```
+
+## 5. CAPTION TEMPLATES
+```markdown
+Purpose: Standardize messaging across platforms
+
+Elements:
+1. Opening Hook
+   - Question formats
+   - Statement starters
+   - Scripture quotes
+   - Call to action
+
+2. Body Content
+   - Product description
+   - Scripture connection
+   - Value proposition
+   - Personal story
+
+3. Call-to-Action (CTA)
+   - Shop now
+   - Share your story
+   - Save for later
+   - Tag a friend
+```
+
+## 6. ANALYTICS DASHBOARD
+```markdown
+Purpose: Track overall campaign performance
+
+Metrics:
+1. Content Performance
+   - Views per platform
+   - Engagement rates
+   - Best performing times
+   - Content type success
+
+2. Sales Metrics
+   - Revenue per post
+   - Platform conversion
+   - Product popularity
+   - Customer acquisition cost
+
+3. Growth Tracking
+   - Follower growth
+   - Email list building
+   - Website traffic
+   - Customer retention
+```
+
+## SETUP INSTRUCTIONS:
+1. Create Master Sheet
+   - Name: "FAITH OVER FEAR - Project Management"
+   - Enable editing permissions
+   - Set up auto-backup
+
+2. Create Individual Tabs
+   - Copy template structures
+   - Apply formatting rules
+   - Set up data validation
+   - Enable filters
+
+3. Set Up Automations
+   - Date auto-fill
+   - Status updates
+   - Performance calculations
+   - Reminder notifications
+
+4. Link to Other Tools
+   - Connect to GitHub folders
+   - Link to design files
+   - Connect analytics
+   - Set up sharing permissions
