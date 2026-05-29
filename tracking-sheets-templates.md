@@ -4,11 +4,19 @@
 === Sheet Name: "FAITH OVER FEAR - Project Management" ===
 
 Tab 1: CONTENT CALENDAR
-A1: =ARRAYFORMULA({"Content Calendar"; "Date";"Platform";"Content Type";"Status";"Design Link";"Copy/Script";"Post Time";"Performance";"Notes"})
+A1: =ARRAYFORMULA({"Content Calendar"; "Date";"Platform";"Account";"Content Type";"Status";"Design Link";"Copy/Script";"Post Time";"Performance";"Notes"})
 [Apply data validation for columns]
-Platform options: Instagram, TikTok, Facebook, Email, Website
+Platform options: Instagram, TikTok, Pinterest, YouTube, Facebook, Email, Website
+Account options (multi-account support):
+  - TikTok: TikTok - Main, TikTok - Faith, TikTok - Shop
+  - YouTube: YouTube - Main, YouTube - Shorts, YouTube - Vlog
+  - Pinterest: Pinterest - Main
+  - Instagram: Instagram - Main
+  - Facebook: Facebook - Page
+  (Use "Account" column to pick which connected profile a post publishes to.
+   Add/rename rows here as you connect more accounts.)
 Status options: Planning, In Progress, Ready, Posted, Need Revision
-Content Type options: Photo, Video, Reel, Story, Post, Email
+Content Type options: Photo, Video, Reel, Short, Story, Pin, Post, Email
 
 Tab 2: AI PROMPTS LIBRARY
 A1: =ARRAYFORMULA({"AI Prompts Tracker"; "Date";"Platform";"Prompt Type";"Actual Prompt";"Result Rating (1-5)";"Link to Result";"Notes"})
@@ -23,8 +31,9 @@ Product options: T-Shirt, Tote Bag, Canvas
 Sample Status options: Not Ordered, Ordered, Received, Approved, Rejected
 
 Tab 4: PERFORMANCE METRICS
-A1: =ARRAYFORMULA({"Analytics"; "Date";"Platform";"Post Type";"Views";"Likes";"Comments";"Shares";"Sales";"Notes"})
+A1: =ARRAYFORMULA({"Analytics"; "Date";"Platform";"Account";"Post Type";"Views";"Likes";"Comments";"Shares";"Sales";"Notes"})
 [Add calculation formulas]
+[Track each connected TikTok / YouTube / Pinterest account separately via the Account column]
 ```
 
 # 2. CONTENT CALENDAR TEMPLATE
@@ -33,12 +42,12 @@ A1: =ARRAYFORMULA({"Analytics"; "Date";"Platform";"Post Type";"Views";"Likes";"C
 === Sheet Name: "FAITH OVER FEAR - Content Calendar" ===
 
 Tab 1: MONTHLY OVERVIEW
-A1: =ARRAYFORMULA({"Month Overview"; "Date";"Day";"Platform";"Content";"Status";"Notes"})
+A1: =ARRAYFORMULA({"Month Overview"; "Date";"Day";"Platform";"Account";"Content";"Status";"Notes"})
 [Add formula for automatic day calculation]
 B2: =TEXT(A2,"dddd")
 
 Tab 2: CONTENT TYPES
-A1: =ARRAYFORMULA({"Content Matrix"; "Type";"Platform";"Frequency";"Best Time";"Caption Template";"Hashtags"})
+A1: =ARRAYFORMULA({"Content Matrix"; "Type";"Platform";"Account";"Frequency";"Best Time";"Caption Template";"Hashtags"})
 
 Tab 3: HASHTAG LIBRARY
 A1: =ARRAYFORMULA({"Hashtag Groups"; "Category";"Hashtags";"Reach";"Performance";"Notes"})
@@ -79,16 +88,30 @@ Need Revision
 // Platform List
 Instagram
 TikTok
-Facebook
 Pinterest
+YouTube
+Facebook
 Email
 Website
+
+// Account List (multi-account support)
+TikTok - Main
+TikTok - Faith
+TikTok - Shop
+YouTube - Main
+YouTube - Shorts
+YouTube - Vlog
+Pinterest - Main
+Instagram - Main
+Facebook - Page
 
 // Content Types
 Product Photo
 Lifestyle Shot
 Reel
+Short
 Story
+Pin
 Carousel
 Text Post
 Video
@@ -107,8 +130,12 @@ Email Campaign
 // Hashtag Counter
 =COUNTA(SPLIT(F2,"#"))-1
 
-// Weekly Post Counter
+// Weekly Post Counter (by platform)
 =COUNTIFS(B2:B8,"Instagram")
+
+// Posts per Account (multi-account support)
+=COUNTIF(D2:D100,"TikTok - Main")
+=COUNTIF(D2:D100,"YouTube - Shorts")
 ```
 # FAITH OVER FEAR - SHEET DESCRIPTIONS & SETUP GUIDE
 
@@ -122,9 +149,12 @@ Key Columns:
    - Use for scheduling all content
    - Color code by month
 
-2. Platform
+2. Platform & Account
    - Track where content will be posted
-   - Include specific placement (Feed, Story, Reel)
+   - Include specific placement (Feed, Story, Reel, Short, Pin)
+   - Use the Account column to target a specific profile when a
+     platform has several accounts (e.g. TikTok - Main vs TikTok - Shop,
+     YouTube - Main vs YouTube - Shorts)
    - Note any cross-posting
 
 3. Content Type
