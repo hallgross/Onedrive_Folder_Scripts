@@ -17,8 +17,15 @@
 
 ## 🛐 START HERE → The Command Center
 
-**[COMMAND_CENTER.md](./COMMAND_CENTER.md)** is the master hub. It links to everything and shows
-the full product picture. Begin there for any task.
+> **Single source of truth = the BACKOFFICE COMMAND CENTER in Google Drive:**
+> **⭐ HHD BACKOFFICE COMMAND CENTER — Master Hub**
+> https://docs.google.com/document/d/1YndNZVj478tI-dPq5UHUVsUYd2eOKPRtIlHmgVKrSMg/edit
+>
+> That Drive doc runs the whole empire (products, pricing, content docs, calendar, rules).
+> This repo is only the chat's **memory pointer** so context auto-loads each session.
+
+**[COMMAND_CENTER.md](./COMMAND_CENTER.md)** is the local mirror. For any real work, open the
+backoffice command center in Drive (link above) — it is the master.
 
 ---
 

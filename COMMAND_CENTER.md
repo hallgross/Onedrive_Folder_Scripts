@@ -1,6 +1,11 @@
 # 🛐 HHD COMMAND CENTER
 ### Heavenly Hands Divine · *Faith Over Fear* — Master Hub
 
+> ⭐ **The live master is now in your BACKOFFICE (Google Drive):**
+> **[⭐ HHD BACKOFFICE COMMAND CENTER — Master Hub](https://docs.google.com/document/d/1YndNZVj478tI-dPq5UHUVsUYd2eOKPRtIlHmgVKrSMg/edit)**
+> Run the empire from there — products, pricing, EDU + WOW content docs, calendar, and rules all live in one place.
+> This file is a local mirror kept so chat always has context.
+
 > This is the central command center for the whole operation. Everything lives here or is linked from here.
 > If you ever feel lost, **start on this page.**
 
