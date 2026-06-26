@@ -36,6 +36,7 @@ backoffice command center in Drive (link above) — it is the master.
 | [COMMAND_CENTER.md](./COMMAND_CENTER.md) | Master hub — navigation, product lines, checklists |
 | [HHD_Education_Center_Digital_Maker_List.md](./HHD_Education_Center_Digital_Maker_List.md) | EDU catalog: SKU · title · maker assignment · price |
 | [EDU_Sales_Listings.md](./EDU_Sales_Listings.md) | Elegant, ready-to-sell listings + bundle ideas |
+| [HHD_Juneteenth_Collection.md](./HHD_Juneteenth_Collection.md) | Juneteenth Color Pop POD collection (JT001–JT025) |
 | [projectStructure.md](./projectStructure.md) | OneDrive folder / file naming structure |
 | [tracking-sheets-templates.md](./tracking-sheets-templates.md) | Google Sheets tracking templates & formulas |
 
@@ -46,6 +47,7 @@ backoffice command center in Drive (link above) — it is the master.
 | Line | Prefix | Price | Count | Status |
 |------|--------|-------|-------|--------|
 | Education Center Ebooks | `EDU` | $15.99 | 30 (EDU01–EDU30) | Listings ready to sell |
+| Juneteenth Collection (POD) | `JT` | $17.99–$49.99 | 25 (JT001–JT025) | Spec ready · Printify → shop |
 
 - **Flagship titles:** `EDU30` (signature, tied to Walk on Water / Loretta's testimony) and `EDU10` ("Faith Over Fear").
 - **Ebook structure standard:** scripture → teaching → reflection questions → declaration/prayer.

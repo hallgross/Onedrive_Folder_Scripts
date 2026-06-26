@@ -17,6 +17,7 @@
 |---------------|----------------|
 | 📚 **Product catalog (maker list)** | [HHD_Education_Center_Digital_Maker_List.md](./HHD_Education_Center_Digital_Maker_List.md) |
 | ✨ **Sales-ready listings (elegant, copy/paste)** | [EDU_Sales_Listings.md](./EDU_Sales_Listings.md) |
+| ✊🏾 **Juneteenth collection (POD)** | [HHD_Juneteenth_Collection.md](./HHD_Juneteenth_Collection.md) |
 | 🗂️ **Folder / file structure** | [projectStructure.md](./projectStructure.md) |
 | 📊 **Tracking sheets & templates** | [tracking-sheets-templates.md](./tracking-sheets-templates.md) |
 | 🧠 **Always-on context for chat** | [CLAUDE.md](./CLAUDE.md) |
@@ -28,6 +29,7 @@
 | Line | Prefix | What it is | Price | Count | Status |
 |------|--------|------------|-------|-------|--------|
 | Education Center Ebooks | `EDU` | Digital teaching guides / devotional ebooks (PDF) | $15.99 | 30 (EDU01–EDU30) | ✅ Listings ready to sell |
+| Juneteenth Collection | `JT` | Color Pop print-on-demand merch (Printify → shop) | $17.99–$49.99 | 25 (JT001–JT025) | ✅ Spec ready · publish to Printify |
 
 > Add new product lines as new rows here so the command center always shows the full picture.
 
