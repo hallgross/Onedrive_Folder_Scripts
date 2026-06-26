@@ -1,0 +1,6 @@
+# CH08 – The Fourth Dog: Grief at the Teeth of Another
+**Target visual file:** `WOWBOOK_CH08_The_Fourth_Dog_Grief_at_the_Teeth_of_Another_V1_Draft.png`
+**Status:** Not Started
+
+## Book Visual Prompt
+Cinematic, premium faith-based book illustration for 'This Is How You Walk on Water' - Chapter 8: The Fourth Dog: Grief at the Teeth of Another. Scene: a tender, sorrowful moment of comfort by soft candlelight; gentle hands and quiet peace. Mood: grief met by comfort. Style: Heavenly Hands Divine - water motif, divine golden light, deep jewel tones (navy, teal, gold), tasteful, hopeful, fine-art testimony illustration. Vertical 2:3, high resolution, no text, no watermark.

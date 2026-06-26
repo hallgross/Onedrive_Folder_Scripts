@@ -1,0 +1,6 @@
+# CH01 – In the Beginning: James and Margaret
+**Target visual file:** `WOWBOOK_CH01_In_the_Beginning_James_and_Margaret_V1_Draft.png`
+**Status:** Not Started
+
+## Book Visual Prompt
+Cinematic, premium faith-based book illustration for 'This Is How You Walk on Water' - Chapter 1: In the Beginning: James and Margaret. Scene: an old family photograph dissolving into golden light; a baby cradled by unseen hands; roots beneath a calm sea. Mood: origins and divine foreknowledge. Style: Heavenly Hands Divine - water motif, divine golden light, deep jewel tones (navy, teal, gold), tasteful, hopeful, fine-art testimony illustration. Feature Loretta 'Lolo' Hall's likeness (Higgsfield Soul 'Coral Elegance Unveiled') as the woman. Vertical 2:3, high resolution, no text, no watermark.
