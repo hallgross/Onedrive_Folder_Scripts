@@ -15,6 +15,8 @@
 
 | What you need | Where it lives |
 |---------------|----------------|
+| 🟢 **LAUNCH READY (100%-complete products only)** | [LAUNCH_READY.md](./LAUNCH_READY.md) · data: [HHD_Launch_Readiness.csv](./HHD_Launch_Readiness.csv) |
+| 📅 **Monthly Collection Calendar** | [HHD_Launch_Calendar.md](./HHD_Launch_Calendar.md) |
 | 📚 **Product catalog (maker list)** | [HHD_Education_Center_Digital_Maker_List.md](./HHD_Education_Center_Digital_Maker_List.md) |
 | ✨ **Sales-ready listings (elegant, copy/paste)** | [EDU_Sales_Listings.md](./EDU_Sales_Listings.md) |
 | 🖼️ **EDU cover visuals (30 URLs)** | [EDU_Visuals.csv](./EDU_Visuals.csv) |
