@@ -21,6 +21,10 @@
 | 📄 **EDU ebook files (30 written PDFs)** | [HHD_EDU_30_Ebooks_PDFs.zip](./HHD_EDU_30_Ebooks_PDFs.zip) |
 | 🧩 **EDU MASTER — content + visuals in one (for Manus)** | [HHD_EDU_MASTER_for_Manus.csv](./HHD_EDU_MASTER_for_Manus.csv) |
 | ✊🏾 **Juneteenth collection (POD)** | [HHD_Juneteenth_Collection.md](./HHD_Juneteenth_Collection.md) |
+| 📖 **WOW publishing workflow (1 master → many products)** | [WOW Book – This Is How You Walk on Water/WOW_PUBLISHING_WORKFLOW.md](./WOW%20Book%20%E2%80%93%20This%20Is%20How%20You%20Walk%20on%20Water/WOW_PUBLISHING_WORKFLOW.md) |
+| 🏛️ **WOW master chapters (Empire side)** | [WOW Book – This Is How You Walk on Water/WOW_Master_Chapters.csv](./WOW%20Book%20%E2%80%93%20This%20Is%20How%20You%20Walk%20on%20Water/WOW_Master_Chapters.csv) |
+| 🛍️ **WOW product family (Store side, status)** | [WOW Book – This Is How You Walk on Water/WOW_Product_Family.csv](./WOW%20Book%20%E2%80%93%20This%20Is%20How%20You%20Walk%20on%20Water/WOW_Product_Family.csv) |
+| 🔒 **Asset registry (link permanence — all images)** | [HHD_ASSET_REGISTRY.csv](./HHD_ASSET_REGISTRY.csv) |
 | 🗂️ **Folder / file structure** | [projectStructure.md](./projectStructure.md) |
 | 📊 **Tracking sheets & templates** | [tracking-sheets-templates.md](./tracking-sheets-templates.md) |
 | 🧠 **Always-on context for chat** | [CLAUDE.md](./CLAUDE.md) |
