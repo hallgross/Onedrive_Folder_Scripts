@@ -33,6 +33,24 @@ Model = Loretta's Higgsfield Soul **"Coral Elegance Unveiled."** On-model shots 
 
 ---
 
+## D) WALK ON WATER — publishing workflow (live store)
+**Source of truth = Empire (this repo). Store = Loretta's live store (Manus-managed).**
+**Golden rule:** the live store must NOT contain a copy of the master manuscript — only finished products that **point back** to a master chapter.
+
+**Files:** `WOW_PUBLISHING_WORKFLOW.md` (rules) · `WOW_Master_Chapters.csv` (30 masters — private, do NOT publish) · `WOW_Product_Family.csv` (211 products → store).
+
+**Manus steps:**
+1. For each row in `WOW_Product_Family.csv`, create/locate the matching product in the live store and record its `Store_URL` back into the CSV. Store the `Master_Chapter_ID` on the product (tag/metafield) so it links to its master.
+2. **Never** paste the master manuscript text into a store product. Products = WOW PDF / Prayer Scroll / Study Guide / Journal / Audio / Video / Bundle / Complete Book only.
+3. Respect `Publish_Status`: only publish rows Loretta marks **Ready to Publish**. If a master is edited (its `Master_Version` rises above a product's `Published_From_Version`), set that product to **Needs Update** and WAIT for Loretta's approval — do **not** auto-overwrite the live product.
+4. **De-dupe:** if the WOW book currently shows in two places in the store, keep ONE product set and remove the duplicate listing (do not delete Empire files).
+
+## E) LINK PERMANENCE — re-host so nothing expires
+**File:** `HHD_ASSET_REGISTRY.csv` (all 71 images + permanent Higgsfield Job IDs).
+**Manus steps:** download each `Current_CDN_URL` → re-upload into Loretta's own store/Drive → paste the owned link into `Permanent_Owned_URL` → point store products at the owned link. (Job IDs are permanent backups if any CDN link ever changes.)
+
+---
+
 ## Division of labor
-**DONE (Claude):** all content · 30 EDU PDFs · 36 Juneteenth designs (4K) · CSVs w/ metadata + URLs · listings · mockups · on-model ads · July 1 launch on calendar.
-**MANUS (light):** upload PDFs · push designs to Printify · group collections · publish (with Loretta's OK).
+**DONE (Claude):** all content · 30 EDU PDFs · 36 Juneteenth designs (4K) · CSVs w/ metadata + URLs · listings · mockups · on-model ads · July 1 launch on calendar · WOW publishing workflow (master↔product map + status) · asset registry for link permanence.
+**MANUS (light):** upload PDFs · push designs to Printify · wire WOW products to master chapters in the live store (pointers, not copies) · re-host images to owned links · group collections · publish (with Loretta's OK).
