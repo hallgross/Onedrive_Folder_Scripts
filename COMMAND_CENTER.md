@@ -15,6 +15,7 @@
 
 | What you need | Where it lives |
 |---------------|----------------|
+| 🧰 **Team Tools Hub (YouTube/vidIQ publishing process)** | [TEAM_TOOLS_HUB.md](./TEAM_TOOLS_HUB.md) · per-video: [HHD_YouTube_Checklist.csv](./HHD_YouTube_Checklist.csv) |
 | 🟢 **LAUNCH READY (100%-complete products only)** | [LAUNCH_READY.md](./LAUNCH_READY.md) · data: [HHD_Launch_Readiness.csv](./HHD_Launch_Readiness.csv) |
 | 📅 **Monthly Collection Calendar** | [HHD_Launch_Calendar.md](./HHD_Launch_Calendar.md) |
 | 📚 **Product catalog (maker list)** | [HHD_Education_Center_Digital_Maker_List.md](./HHD_Education_Center_Digital_Maker_List.md) |
