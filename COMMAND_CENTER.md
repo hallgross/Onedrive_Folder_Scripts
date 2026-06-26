@@ -55,6 +55,9 @@
 
 ---
 
+## 📸 Brand Rule — Apparel Modeling
+When advertising clothing, **Loretta is her own model.** Hero images, ads, and lifestyle shots use real photos of Loretta wearing the product. Plain flat-lay/mockups are only for catalog thumbnails.
+
 ## 🔁 How to keep this Command Center current
 
 - New product? → add it to the **maker list**, write its **sales listing**, and add a row to **Product Lines at a Glance** above.

@@ -11,7 +11,8 @@
 - **Movement / tagline:** *Faith Over Fear*
 - **Founder:** Loretta — many products are tied to her personal testimony.
 - **Voice:** Faith-based, encouraging, scripture-anchored, warm, and uplifting. Always tasteful and authentic to a Christian audience.
-- **What HHD sells:** Digital ebooks/teaching guides, prayer scrolls, declarations, and prayer products.
+- **What HHD sells:** Digital ebooks/teaching guides, prayer scrolls, declarations, prayer products, and Color Pop POD apparel.
+- **📸 Model rule:** When advertising clothing/apparel, **Loretta is her own model.** Use real photos of Loretta wearing the product for ads and lifestyle shots — not generic AI models. Flat-lay/product mockups are fine for catalog thumbnails, but hero/ad imagery features Loretta.
 
 ---
 
