@@ -1,4 +1,6 @@
 # CH08 – The Fourth Dog: Grief at the Teeth of Another
+**Scripture:** Psalm 34:18
+**Theme:** Grief & Comfort
 **Target visual file:** `WOWBOOK_CH08_The_Fourth_Dog_Grief_at_the_Teeth_of_Another_V1_Draft.png`
 **Status:** Not Started
 

@@ -1,4 +1,6 @@
 # CH03 – The Foster Room Wasn't Home, But God Was
+**Scripture:** Psalm 27:10
+**Theme:** Belonging
 **Target visual file:** `WOWBOOK_CH03_Foster_Room_Wasnt_Home_But_God_Was_V1_Draft.png`
 **Status:** Not Started
 

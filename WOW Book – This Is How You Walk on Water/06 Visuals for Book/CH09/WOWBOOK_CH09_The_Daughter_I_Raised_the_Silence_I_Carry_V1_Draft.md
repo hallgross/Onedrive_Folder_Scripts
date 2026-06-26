@@ -1,4 +1,6 @@
 # CH09 – The Daughter I Raised, the Silence I Carry
+**Scripture:** Psalm 56:8
+**Theme:** Hidden Grief & Love
 **Target visual file:** `WOWBOOK_CH09_The_Daughter_I_Raised_the_Silence_I_Carry_V1_Draft.png`
 **Status:** Not Started
 

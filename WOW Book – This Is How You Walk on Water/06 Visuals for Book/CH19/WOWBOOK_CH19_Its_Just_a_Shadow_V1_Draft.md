@@ -1,4 +1,6 @@
 # CH19 – It's Just a Shadow
+**Scripture:** Psalm 27:1
+**Theme:** Fearlessness
 **Target visual file:** `WOWBOOK_CH19_Its_Just_a_Shadow_V1_Draft.png`
 **Status:** Not Started
 

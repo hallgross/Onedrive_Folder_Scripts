@@ -1,4 +1,6 @@
 # CH25 – The Scroll Was in My Belly
+**Scripture:** Ezekiel 3:3
+**Theme:** Prophetic Word Within
 **Target visual file:** `WOWBOOK_CH25_The_Scroll_Was_in_My_Belly_V1_Draft.png`
 **Status:** Not Started
 

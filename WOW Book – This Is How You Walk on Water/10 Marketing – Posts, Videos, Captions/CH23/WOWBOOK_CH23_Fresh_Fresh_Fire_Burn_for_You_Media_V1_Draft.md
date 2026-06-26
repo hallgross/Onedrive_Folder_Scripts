@@ -1,4 +1,6 @@
 # CH23 – Fresh Fresh Fire: Burn for You
+**Scripture:** 2 Timothy 1:6
+**Theme:** Renewal & Fire
 **Status:** Not Started
 
 ## Short Video Prompt (Reel)
@@ -7,8 +9,5 @@
 ## Long Video Prompt (Teaser)
 60-90s testimony teaser (9:16). ARC: open in the weight of renewal and passion; move through the moment (a bright holy flame rekindled with golden sparks rising); resolve into hope and light. Loretta 'Lolo' Hall voiceover over soft cinematic b-roll of water and golden light; subtle scripture overlay; build to the turning point. CTA: 'Read Chapter 23 of This Is How You Walk on Water.'
 
-## Voiceover Prompt
-Warm, intimate, faith-filled - Loretta 'Lolo' Hall. Pace: slow, tender, hopeful. SEED LINE: "I asked God for fresh fire, and my first love came alive again." Length ~120-150 words (long video) or ~30 words (reel). End with a gentle invitation to keep walking in faith.
-
-## Caption (draft)
-"Lord, send fresh fire - I'll burn for You." — from Chapter 23 of *This Is How You Walk on Water* by Loretta "Lolo" Hall. #FaithOverFear #WalkOnWater #HeavenlyHandsDivine
+## Voiceover / Caption
+Warm, intimate, faith-filled - Loretta 'Lolo' Hall. Pace: slow, tender, hopeful. SEED LINE: "I asked God for fresh fire, and my first love came alive again." ~120-150 words (long) / ~30 words (reel). End with a gentle invitation to keep walking in faith. CAPTION: "Lord, send fresh fire - I'll burn for You." - from Chapter 23 of This Is How You Walk on Water. #FaithOverFear #WalkOnWater #HeavenlyHandsDivine

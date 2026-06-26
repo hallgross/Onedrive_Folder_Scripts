@@ -1,4 +1,6 @@
 # CH02 – Every Girl Needs a James
+**Scripture:** Psalm 68:6
+**Theme:** Covering & Family
 **Target visual file:** `WOWBOOK_CH02_Every_Girl_Needs_a_James_V1_Draft.png`
 **Status:** Not Started
 

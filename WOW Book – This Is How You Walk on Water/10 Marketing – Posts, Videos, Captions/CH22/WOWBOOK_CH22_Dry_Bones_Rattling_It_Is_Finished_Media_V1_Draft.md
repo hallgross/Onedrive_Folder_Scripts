@@ -1,4 +1,6 @@
 # CH22 – Dry Bones Rattling: It Is Finished
+**Scripture:** Ezekiel 37:5
+**Theme:** Revival / Finished Work
 **Status:** Not Started
 
 ## Short Video Prompt (Reel)
@@ -7,8 +9,5 @@
 ## Long Video Prompt (Teaser)
 60-90s testimony teaser (9:16). ARC: open in the weight of revival and the finished work; move through the moment (a valley of dry bones coming alive with the breath of golden light); resolve into hope and light. Loretta 'Lolo' Hall voiceover over soft cinematic b-roll of water and golden light; subtle scripture overlay; build to the turning point. CTA: 'Read Chapter 22 of This Is How You Walk on Water.'
 
-## Voiceover Prompt
-Warm, intimate, faith-filled - Loretta 'Lolo' Hall. Pace: slow, tender, hopeful. SEED LINE: "God breathed, and what was dead in me began to live again." Length ~120-150 words (long video) or ~30 words (reel). End with a gentle invitation to keep walking in faith.
-
-## Caption (draft)
-"Dry bones are rattling - it is finished." — from Chapter 22 of *This Is How You Walk on Water* by Loretta "Lolo" Hall. #FaithOverFear #WalkOnWater #HeavenlyHandsDivine
+## Voiceover / Caption
+Warm, intimate, faith-filled - Loretta 'Lolo' Hall. Pace: slow, tender, hopeful. SEED LINE: "God breathed, and what was dead in me began to live again." ~120-150 words (long) / ~30 words (reel). End with a gentle invitation to keep walking in faith. CAPTION: "Dry bones are rattling - it is finished." - from Chapter 22 of This Is How You Walk on Water. #FaithOverFear #WalkOnWater #HeavenlyHandsDivine

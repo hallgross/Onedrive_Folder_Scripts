@@ -1,4 +1,6 @@
 # CH17 – Small Animals in the Kitchen: God Speaks in Strange Places
+**Scripture:** 1 Kings 19:12
+**Theme:** God in the Ordinary
 **Target visual file:** `WOWBOOK_CH17_Small_Animals_in_the_Kitchen_V1_Draft.png`
 **Status:** Not Started
 

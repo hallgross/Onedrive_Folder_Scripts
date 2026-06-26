@@ -1,4 +1,6 @@
 # CH15 – The Dove Experiences: God Came Like a Dove
+**Scripture:** Matthew 3:16
+**Theme:** Peace & the Spirit
 **Target visual file:** `WOWBOOK_CH15_Dove_Experiences_God_Came_Like_a_Dove_V1_Draft.png`
 **Status:** Not Started
 

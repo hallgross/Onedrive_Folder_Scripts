@@ -1,4 +1,6 @@
 # CH05 – The Footprint of Jesus in My Heart
+**Scripture:** 1 Peter 2:21
+**Theme:** Intimacy & Calling
 **Target visual file:** `WOWBOOK_CH05_Footprint_of_Jesus_in_My_Heart_V1_Draft.png`
 **Status:** Not Started
 

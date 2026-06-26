@@ -1,4 +1,6 @@
 # CH29 – I'm Dancing on the Grave I Once Lived In
+**Scripture:** Psalm 30:11
+**Theme:** Triumphant Joy
 **Target visual file:** `WOWBOOK_CH29_Dancing_on_the_Grave_I_Once_Lived_In_V1_Draft.png`
 **Status:** Not Started
 

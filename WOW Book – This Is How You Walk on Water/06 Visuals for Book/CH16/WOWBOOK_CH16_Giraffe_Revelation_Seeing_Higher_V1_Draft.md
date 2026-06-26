@@ -1,4 +1,6 @@
 # CH16 – The Giraffe Revelation: Seeing Higher
+**Scripture:** Colossians 3:2
+**Theme:** Vision & Perspective
 **Target visual file:** `WOWBOOK_CH16_Giraffe_Revelation_Seeing_Higher_V1_Draft.png`
 **Status:** Not Started
 

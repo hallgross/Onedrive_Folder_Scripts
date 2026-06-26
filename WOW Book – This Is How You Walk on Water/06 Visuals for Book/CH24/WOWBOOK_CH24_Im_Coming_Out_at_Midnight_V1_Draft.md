@@ -1,4 +1,6 @@
 # CH24 – I'm Coming Out at Midnight
+**Scripture:** Acts 16:26
+**Theme:** Midnight Breakthrough
 **Target visual file:** `WOWBOOK_CH24_Im_Coming_Out_at_Midnight_V1_Draft.png`
 **Status:** Not Started
 

@@ -1,4 +1,6 @@
 # CH26 – The Scroll of Survival: Living Testimony
+**Scripture:** Revelation 12:11
+**Theme:** Testimony & Survival
 **Target visual file:** `WOWBOOK_CH26_Scroll_of_Survival_Living_Testimony_V1_Draft.png`
 **Status:** Not Started
 

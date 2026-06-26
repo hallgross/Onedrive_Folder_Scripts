@@ -1,4 +1,6 @@
 # CH07 – Season of Shadows: When I Lost Everything, But God Kept Me
+**Scripture:** Psalm 23:4
+**Theme:** Loss & Sustaining Grace
 **Target visual file:** `WOWBOOK_CH07_Season_of_Shadows_But_God_V1_Draft.png`
 **Status:** Not Started
 

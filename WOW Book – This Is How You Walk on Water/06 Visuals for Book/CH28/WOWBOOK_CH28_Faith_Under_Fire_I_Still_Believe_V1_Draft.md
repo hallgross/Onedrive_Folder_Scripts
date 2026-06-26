@@ -1,4 +1,6 @@
 # CH28 – Faith Under Fire: I Still Believe
+**Scripture:** Daniel 3:17
+**Theme:** Tested Faith
 **Target visual file:** `WOWBOOK_CH28_Faith_Under_Fire_I_Still_Believe_V1_Draft.png`
 **Status:** Not Started
 

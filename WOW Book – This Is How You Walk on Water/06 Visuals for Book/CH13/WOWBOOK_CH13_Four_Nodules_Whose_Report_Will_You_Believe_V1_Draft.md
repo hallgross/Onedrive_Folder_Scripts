@@ -1,4 +1,6 @@
 # CH13 – The Four Nodules Diagnosis: Whose Report Will You Believe?
+**Scripture:** Isaiah 53:1
+**Theme:** Faith over the Report
 **Target visual file:** `WOWBOOK_CH13_Four_Nodules_Whose_Report_Will_You_Believe_V1_Draft.png`
 **Status:** Not Started
 

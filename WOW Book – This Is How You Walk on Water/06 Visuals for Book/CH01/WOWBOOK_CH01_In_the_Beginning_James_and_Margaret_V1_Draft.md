@@ -1,4 +1,6 @@
 # CH01 – In the Beginning: James and Margaret
+**Scripture:** Psalm 139:16
+**Theme:** Origins & Foreknowledge
 **Target visual file:** `WOWBOOK_CH01_In_the_Beginning_James_and_Margaret_V1_Draft.png`
 **Status:** Not Started
 

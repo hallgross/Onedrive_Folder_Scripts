@@ -1,4 +1,6 @@
 # CH06 – When Everyone Walked Out, God Walked In
+**Scripture:** 2 Timothy 4:17
+**Theme:** Rejection to Presence
 **Target visual file:** `WOWBOOK_CH06_When_Everyone_Walked_Out_God_Walked_In_V1_Draft.png`
 **Status:** Not Started
 

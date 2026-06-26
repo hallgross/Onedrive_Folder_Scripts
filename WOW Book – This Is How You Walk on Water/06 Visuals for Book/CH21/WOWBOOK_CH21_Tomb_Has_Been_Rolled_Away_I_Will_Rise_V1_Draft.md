@@ -1,4 +1,6 @@
 # CH21 – The Tomb Has Been Rolled Away: I Will Rise
+**Scripture:** Matthew 28:2
+**Theme:** Resurrection
 **Target visual file:** `WOWBOOK_CH21_Tomb_Has_Been_Rolled_Away_I_Will_Rise_V1_Draft.png`
 **Status:** Not Started
 

@@ -1,4 +1,6 @@
 # CH27 – Rise Above the Soil: Fruitful Emergence
+**Scripture:** John 12:24
+**Theme:** Emergence & Fruitfulness
 **Target visual file:** `WOWBOOK_CH27_Rise_Above_the_Soil_Fruitful_Emergence_V1_Draft.png`
 **Status:** Not Started
 

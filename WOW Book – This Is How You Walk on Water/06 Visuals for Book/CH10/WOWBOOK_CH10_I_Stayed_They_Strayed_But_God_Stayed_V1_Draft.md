@@ -1,4 +1,6 @@
 # CH10 – I Stayed. They Strayed. But God Stayed With Me
+**Scripture:** Hebrews 13:5
+**Theme:** Faithfulness
 **Target visual file:** `WOWBOOK_CH10_I_Stayed_They_Strayed_But_God_Stayed_V1_Draft.png`
 **Status:** Not Started
 

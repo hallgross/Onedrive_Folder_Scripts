@@ -1,4 +1,6 @@
 # CH04 – Scraps From the Table No More
+**Scripture:** Psalm 23:5
+**Theme:** Dignity & Restoration
 **Target visual file:** `WOWBOOK_CH04_Scraps_From_the_Table_No_More_V1_Draft.png`
 **Status:** Not Started
 

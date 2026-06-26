@@ -1,4 +1,6 @@
 # CH18 – Daniel 10: The Battle for Delayed Blessings
+**Scripture:** Daniel 10:12
+**Theme:** Spiritual Warfare / Delay
 **Target visual file:** `WOWBOOK_CH18_Daniel_10_Battle_for_Delayed_Blessings_V1_Draft.png`
 **Status:** Not Started
 

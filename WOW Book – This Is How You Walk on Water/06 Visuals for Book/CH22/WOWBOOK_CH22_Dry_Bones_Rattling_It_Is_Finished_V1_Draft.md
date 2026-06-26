@@ -1,4 +1,6 @@
 # CH22 – Dry Bones Rattling: It Is Finished
+**Scripture:** Ezekiel 37:5
+**Theme:** Revival / Finished Work
 **Target visual file:** `WOWBOOK_CH22_Dry_Bones_Rattling_It_Is_Finished_V1_Draft.png`
 **Status:** Not Started
 

@@ -1,4 +1,6 @@
 # CH23 – Fresh Fresh Fire: Burn for You
+**Scripture:** 2 Timothy 1:6
+**Theme:** Renewal & Fire
 **Target visual file:** `WOWBOOK_CH23_Fresh_Fresh_Fire_Burn_for_You_V1_Draft.png`
 **Status:** Not Started
 

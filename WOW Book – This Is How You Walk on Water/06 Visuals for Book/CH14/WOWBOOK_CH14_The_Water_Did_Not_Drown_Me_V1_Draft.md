@@ -1,4 +1,6 @@
 # CH14 – The Water Did Not Drown Me
+**Scripture:** Isaiah 43:2
+**Theme:** Survival & Deliverance
 **Target visual file:** `WOWBOOK_CH14_The_Water_Did_Not_Drown_Me_V1_Draft.png`
 **Status:** Not Started
 

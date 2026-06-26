@@ -1,4 +1,6 @@
 # CH11 – The Hospital Stay: God Was in the Room
+**Scripture:** Psalm 41:3
+**Theme:** Presence in Sickness
 **Target visual file:** `WOWBOOK_CH11_Hospital_Stay_God_Was_in_the_Room_V1_Draft.png`
 **Status:** Not Started
 

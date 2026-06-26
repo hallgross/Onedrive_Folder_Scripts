@@ -1,4 +1,6 @@
 # CH20 – This Time the Enemy Will Not Steal
+**Scripture:** Joel 2:25
+**Theme:** Recovery & Authority
 **Target visual file:** `WOWBOOK_CH20_This_Time_the_Enemy_Will_Not_Steal_V1_Draft.png`
 **Status:** Not Started
 

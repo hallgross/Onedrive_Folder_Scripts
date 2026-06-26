@@ -1,4 +1,6 @@
 # CH30 – This Is How You Walk on Water
+**Scripture:** Matthew 14:29
+**Theme:** Faith Over Fear (Culmination)
 **Target visual file:** `WOWBOOK_CH30_This_Is_How_You_Walk_on_Water_V1_Draft.png`
 **Status:** Not Started
 

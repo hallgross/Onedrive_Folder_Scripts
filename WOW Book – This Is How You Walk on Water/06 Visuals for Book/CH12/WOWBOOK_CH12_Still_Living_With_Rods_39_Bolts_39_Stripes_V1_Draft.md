@@ -1,4 +1,6 @@
 # CH12 – Still Living With Rods: 39 Bolts, 39 Stripes
+**Scripture:** Isaiah 53:5
+**Theme:** Pain & Healing
 **Target visual file:** `WOWBOOK_CH12_Still_Living_With_Rods_39_Bolts_39_Stripes_V1_Draft.png`
 **Status:** Not Started
 
