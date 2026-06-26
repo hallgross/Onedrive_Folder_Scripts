@@ -17,6 +17,9 @@
 |---------------|----------------|
 | 📚 **Product catalog (maker list)** | [HHD_Education_Center_Digital_Maker_List.md](./HHD_Education_Center_Digital_Maker_List.md) |
 | ✨ **Sales-ready listings (elegant, copy/paste)** | [EDU_Sales_Listings.md](./EDU_Sales_Listings.md) |
+| 🖼️ **EDU cover visuals (30 URLs)** | [EDU_Visuals.csv](./EDU_Visuals.csv) |
+| 📄 **EDU ebook files (30 written PDFs)** | [HHD_EDU_30_Ebooks_PDFs.zip](./HHD_EDU_30_Ebooks_PDFs.zip) |
+| 🧩 **EDU MASTER — content + visuals in one (for Manus)** | [HHD_EDU_MASTER_for_Manus.csv](./HHD_EDU_MASTER_for_Manus.csv) |
 | ✊🏾 **Juneteenth collection (POD)** | [HHD_Juneteenth_Collection.md](./HHD_Juneteenth_Collection.md) |
 | 🗂️ **Folder / file structure** | [projectStructure.md](./projectStructure.md) |
 | 📊 **Tracking sheets & templates** | [tracking-sheets-templates.md](./tracking-sheets-templates.md) |
@@ -41,6 +44,9 @@
 - **Flagship / front-door titles:** `EDU30` (signature) and `EDU10` (brand name "Faith Over Fear").
 - **Full elegant listings** (tagline + description + what's inside + scripture + price) are in
   **[EDU_Sales_Listings.md](./EDU_Sales_Listings.md)** — copy/paste straight into Etsy, Shopify, Payhip, or Gumroad.
+- **Cover visuals:** all 30 gold-elegant covers (public image URLs) in **[EDU_Visuals.csv](./EDU_Visuals.csv)**.
+- **Ebook files:** all 30 written PDFs in **[HHD_EDU_30_Ebooks_PDFs.zip](./HHD_EDU_30_Ebooks_PDFs.zip)** (filename = `SKU_Title`).
+- **One-file handoff for Manus:** **[HHD_EDU_MASTER_for_Manus.csv](./HHD_EDU_MASTER_for_Manus.csv)** — SKU · title · price · tagline · scripture · **cover URL** · PDF filename · description. Everything Manus needs (content + visuals) in a single sheet.
 - **Bundle ideas** are at the bottom of the listings file (Complete Library, Starter Set, Healing, Prayer & Family, Builder's).
 
 ---
