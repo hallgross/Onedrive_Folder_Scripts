@@ -13,7 +13,13 @@
 - **Voice:** Faith-based, encouraging, scripture-anchored, warm, and uplifting. Always tasteful and authentic to a Christian audience.
 - **What HHD sells:** Digital ebooks/teaching guides, prayer scrolls, declarations, prayer products, and Color Pop POD apparel.
 - **📸 Model rule:** When advertising clothing/apparel, **Loretta is her own model.** Use real photos of Loretta wearing the product for ads and lifestyle shots — not generic AI models. Flat-lay/product mockups are fine for catalog thumbnails, but hero/ad imagery features Loretta.
-- **🧑‍🎨 Default model Soul (Higgsfield):** **"Coral Elegance Unveiled"** (the bald-headed character) IS Loretta. `soul_id: 098a8577-927b-413b-ae92-c8ff54348aaa` · type `soul_2`. Use this Soul (model `soul_2`) for all on-model apparel ads.
+- **🧑‍🎨 Model Souls (Higgsfield) — all are Loretta; pick by line:**
+  | Soul (name) | soul_id | Use for |
+  |---|---|---|
+  | **Coral Elegance Unveiled** (bald head — Loretta's true likeness) | `098a8577-927b-413b-ae92-c8ff54348aaa` | Faith / signature / Juneteenth & default |
+  | **Bold Elegance Unleashed** | `fe6ad6d8-7db5-4da4-b0b0-121c0feef9fe` | Everyday **Luxury** line |
+  | **DIVINA HEAVEN'S CELESTINE DOVE** (the "diva") | `4a2d9d21-11ca-4fe2-af25-063f1ab8e781` | **Casual** wear |
+  - All are type `soul_2`; generate on-model ads with model `soul_2` + the matching `soul_id`. Default to Coral when the line isn't specified.
 
 ---
 

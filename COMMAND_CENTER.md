@@ -56,7 +56,14 @@
 ---
 
 ## 📸 Brand Rule — Apparel Modeling
-When advertising clothing, **Loretta is her own model.** Hero images, ads, and lifestyle shots use real photos of Loretta wearing the product. Plain flat-lay/mockups are only for catalog thumbnails.
+When advertising clothing, **Loretta is her own model.** Hero images, ads, and lifestyle shots feature Loretta wearing the product. Plain flat-lay/mockups are only for catalog thumbnails.
+
+**Model Souls (Higgsfield) — choose by line:**
+| Soul | Use for |
+|------|---------|
+| Coral Elegance Unveiled (bald head — true likeness) | Faith / signature / Juneteenth · default |
+| Bold Elegance Unleashed | Everyday **Luxury** line |
+| DIVINA HEAVEN'S CELESTINE DOVE (diva) | **Casual** wear |
 
 ## 🔁 How to keep this Command Center current
 
