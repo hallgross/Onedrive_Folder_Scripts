@@ -1,4 +1,7 @@
 # CH02 – Every Girl Needs a James
+
+> 🎨 **Early-life chapter — symbolic cinematic memoir artwork ONLY. No childhood photos.** Loretta was in foster care; she does not have childhood pictures. The absence of photos is part of the testimony — symbolic artwork represents memory, survival, foster care, and God's presence. Do not request or expect personal photos here.
+
 **Scripture:** Psalm 68:6
 **Theme:** Covering & Family
 **Target visual file:** `WOWBOOK_CH02_Every_Girl_Needs_a_James_V1_Draft.png`

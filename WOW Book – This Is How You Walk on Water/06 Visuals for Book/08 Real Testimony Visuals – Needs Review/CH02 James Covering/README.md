@@ -1,22 +1,14 @@
 # CH02 — Every Girl Needs a James
-**Real Testimony Visuals — Needs Loretta Review**
+**Early-life chapter — SYMBOLIC ARTWORK ONLY. No childhood photos.**
 
-Drop Loretta's personal photos for this chapter into this folder. They are **testimony inserts**, not the chapter opener (the cinematic artwork remains the opener).
+> 🎨 Loretta was in foster care all her young life and does **not** have childhood pictures. Do **not** request or expect personal photos for this chapter.
+>
+> **The absence of photos is part of the testimony.** Use symbolic cinematic memoir artwork to represent memory, survival, foster care, and God's presence. This is **not missing content** — it is the story.
 
-| Field | Default for this chapter |
-|-------|--------------------------|
-| **Photo type to use** | Photo of James, or a photo that represents safe covering / fatherly love |
-| **Where to place it** | Inside chapter as “memory of covering”; video overlay after the artwork |
-| **Use type** | Inside book / Video overlay |
-| **Privacy check** | Clear |
-| **Status** | Needs Loretta Review |
+| Field | This chapter |
+|-------|--------------|
+| **Visual approach** | Symbolic cinematic memoir artwork (chapter opener) |
+| **Personal photos** | None expected — by design |
+| **Status** | By design — no childhood photo |
 
-## Per-photo tag (copy for each photo you add)
-- **Filename:**
-- **Suggested chapter:** CH02
-- **What it represents:**
-- **Use type:** Inside book / Video overlay / Reference only / Do not use
-- **Privacy check:** Clear / Crop / Blur / Do not use
-- **Status:** Needs Loretta Review
-
-_Privacy: no addresses, account numbers, medical numbers, readable bills, or private family details. No other people's faces unless Loretta approves._
+*The chapter opener artwork lives in `06 Visuals for Book/CH02/`. This folder intentionally holds no personal photos.*

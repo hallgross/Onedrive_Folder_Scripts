@@ -14,6 +14,14 @@ Personal photos are **testimony inserts, not the main artwork for every chapter.
 2. Loretta's approved personal photo(s) appear inside as testimony inserts.
 3. Selected photos may also be used as 2–3 sec video overlays.
 
+## 🎨 Early-life chapters — SYMBOLIC ARTWORK ONLY (no childhood photos)
+**CH01, CH02, CH03, CH04** — Loretta was in foster care all her young life and does **not** have childhood pictures. Do **not** request or expect personal photos for these chapters. Use symbolic cinematic memoir artwork only.
+> **The absence of photos is part of the testimony.** Symbolic artwork represents memory, survival, foster care, and God's presence. This is not missing content — it is the story.
+
+## 📷 Primary real-photo chapters (Loretta's actual photos)
+**CH11, CH12, CH13, CH14, CH29, CH30** — hospital / healing / survival / victory / author. These are the real visuals Loretta has.
+(Symbolic-personal items may also exist for CH07/CH08 — dog/collar, CH15 — dove, CH16 — giraffe, CH17 — small animals.)
+
 ## 🕊️ Keep these chapters mostly symbolic (sensitive)
 CH06, CH07, CH08, CH09, CH10, CH11, CH12, CH13 — use personal photos sparingly and gently; blur/crop anything private.
 
@@ -27,8 +35,9 @@ CH06, CH07, CH08, CH09, CH10, CH11, CH12, CH13 — use personal photos sparingly
 - **CH01 Family Roots** — CH01 — In the Beginning: James and Margaret
 - **CH02 James Covering** — CH02 — Every Girl Needs a James
 - **CH03 Childhood Foster** — CH03 — The Foster Room Wasn’t Home, But God Was
-- **CH04 Mother of Many Nations** — CH04 — Mother of Many Nations: Rejected at the Door, Called by God
+- **CH04 Mother of Many Nations** — CH04 — Mother of Many Nations: Rejected at the Door, Called by God *(symbolic artwork only — no childhood photos)*
 - **CH06 Standing Strong** — CH06 — When Everyone Walked Out, God Walked In
+- **CH14 The Water Did Not Drown Me** — CH14 — real-photo chapter (healing/water; privacy-checked)
 - **CH07 Season of Shadows** — CH07 — Season of Shadows
 - **CH08 Fourth Dog** — CH08 — The Fourth Dog
 - **CH11 Hospital Stay** — CH11 — The Hospital Stay

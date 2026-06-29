@@ -1,4 +1,7 @@
 # CH03 – The Foster Room Wasn't Home, But God Was
+
+> 🎨 **Early-life chapter — symbolic cinematic memoir artwork ONLY. No childhood photos.** Loretta was in foster care; she does not have childhood pictures. The absence of photos is part of the testimony — symbolic artwork represents memory, survival, foster care, and God's presence. Do not request or expect personal photos here.
+
 **Scripture:** Psalm 27:10
 **Theme:** Belonging
 **Target visual file:** `WOWBOOK_CH03_Foster_Room_Wasnt_Home_But_God_Was_V1_Draft.png`

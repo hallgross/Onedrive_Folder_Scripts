@@ -58,7 +58,7 @@ I thank You that I am not an accident. I am known, I am called, and my beginning
 - Keep James and Margaret honorable, sacred, and connected to the beginning of the story.
 
 **Visual Direction**
-Keep the newborn / golden light / family roots direction. The image should feel like a sacred beginning, not sadness. *(Loretta will choose her personalized visual; any generated image is a placeholder only.)*
+Keep the newborn / golden light / family roots direction. The image should feel like a sacred beginning, not sadness. *(Symbolic artwork only — Loretta was in foster care and has no childhood photos; the absence of photos is part of the testimony.)*
 
 **Video Direction**
 Open softly with language like:

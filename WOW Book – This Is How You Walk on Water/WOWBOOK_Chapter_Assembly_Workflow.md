@@ -13,6 +13,8 @@ Personal photos are **testimony inserts, not the main artwork for every chapter.
 - **Cinematic artwork = chapter opener.**
 - **Personal photos = inside-chapter memory inserts + video overlays** → staged in [`06 Visuals for Book/08 Real Testimony Visuals – Needs Review/`](./06%20Visuals%20for%20Book/08%20Real%20Testimony%20Visuals%20%E2%80%93%20Needs%20Review/READ_ME_Real_Testimony_Visuals.md) (sorted by chapter, tagged, Loretta-reviewed).
 - **Private documents = do NOT use** unless cropped / blurred. No addresses, account numbers, medical numbers, readable bills, or private family details. No other people's faces unless Loretta approves.
+- **Early-life chapters (CH01–CH04) = symbolic artwork ONLY.** Loretta was in foster care and has no childhood photos. The **absence of photos is part of the testimony** — symbolic artwork carries memory, survival, foster care, and God's presence. Not missing content.
+- **Primary real-photo chapters:** CH11, CH12, CH13, CH14, CH29, CH30 (hospital / healing / survival / victory / author) — Loretta's actual photos, privacy-checked.
 - **Sensitive chapters stay mostly symbolic:** CH06–CH13 — use personal photos sparingly and gently.
 - Loretta tells Cowork which of *her* images to use, per chapter. Any AI/generated image is a **placeholder only**, never treated as final.
 - Per the HHD brand rule: **Loretta is her own model.** Her real photos lead.
