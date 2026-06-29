@@ -28,6 +28,7 @@ CH06, CH07, CH08, CH09, CH10, CH11, CH12, CH13 — use personal photos sparingly
 - **CH02 James Covering** — CH02 — Every Girl Needs a James
 - **CH03 Childhood Foster** — CH03 — The Foster Room Wasn’t Home, But God Was
 - **CH04 Mother of Many Nations** — CH04 — Mother of Many Nations: Rejected at the Door, Called by God
+- **CH06 Standing Strong** — CH06 — When Everyone Walked Out, God Walked In
 - **CH07 Season of Shadows** — CH07 — Season of Shadows
 - **CH08 Fourth Dog** — CH08 — The Fourth Dog
 - **CH11 Hospital Stay** — CH11 — The Hospital Stay
@@ -39,4 +40,4 @@ CH06, CH07, CH08, CH09, CH10, CH11, CH12, CH13 — use personal photos sparingly
 - **CH29 Victory Dance** — CH29 — I’m Dancing on the Grave I Once Lived In
 - **CH30 Author Closing** — CH30 — This Is How You Walk on Water
 
-*Note: CH06 (“When Everyone Walked Out, God Walked In”) has photo guidance in Loretta's note but no folder was requested — say the word and I'll add **CH06 Standing Strong**.*
+*(15 chapter folders. CH06–CH13 are sensitive — keep mostly symbolic.)*
