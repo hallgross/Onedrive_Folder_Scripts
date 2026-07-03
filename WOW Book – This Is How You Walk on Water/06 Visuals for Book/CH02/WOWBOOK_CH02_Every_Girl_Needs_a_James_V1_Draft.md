@@ -7,8 +7,8 @@
 **Target visual file:** `WOWBOOK_CH02_Every_Girl_Needs_a_James_V1_Draft.png`
 **Status:** Symbolic artwork (chapter opener) — pending Loretta approval
 
-## Visual Direction
-Dignified **fatherly / uncle covering** — a protective, honorable father-figure presence watching over a young girl; safe love, protection, godly support. **IMPORTANT: a human father/uncle covering, NOT Jesus.** Sacred, warm, hopeful.
+## Visual Direction (Loretta)
+A young girl safe under the covering of a dignified fatherly/uncle figure. Warm, safe, honorable, and **earthly — not Jesus-like.** Keep James honorable, protective, and dignified.
 
 ## Book Visual Prompt
-Symbolic cinematic memoir book illustration for Chapter 2: Every Girl Needs a James. Depict a dignified, honorable fatherly/uncle covering — a protective father-figure presence watching over a young girl, conveying safe love, protection, and godly support. IMPORTANT: this is a human father/uncle covering, NOT Jesus. Warm, tasteful, sacred and hopeful; cream, gold, navy, and water-toned accents; clean space for a chapter title. Vertical 2:3, high resolution, no text, no watermark.
+Symbolic cinematic memoir book illustration for Chapter 2: Every Girl Needs a James. A young girl safe under the covering of a dignified, honorable fatherly/uncle figure — a protective earthly father-figure standing near, conveying safety, warmth, and godly covering after instability. Setting: near still water or under an oak tree, soft golden light. IMPORTANT: warm, safe, honorable, and EARTHLY — a human father/uncle, NOT Jesus and not Jesus-like. Cream, gold, navy, and water-toned accents; sacred, tender, hopeful; clean space for a chapter title. Vertical 2:3, high resolution, no text, no watermark.
