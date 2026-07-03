@@ -9,3 +9,6 @@ Living with rods - 39 bolts, 39 stripes; redemptive healing. (Expand.)
 
 ## Chapter Draft
 _(Paste Loretta's full chapter testimony here.)_
+
+## Update Note (Loretta)
+Rods shifted — a medical scare — but testing showed they were stable.

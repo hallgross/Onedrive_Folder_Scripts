@@ -1,6 +1,6 @@
 # CH02 – Every Girl Needs a James
-**Scripture:** Psalm 68:6
-**Theme:** Covering & Family
+**Scripture:** Proverbs 18:24
+**Theme:** Covering, protection, safe love, godly support
 **Status:** Not Started
 
 ## Short Video Prompt (Reel)

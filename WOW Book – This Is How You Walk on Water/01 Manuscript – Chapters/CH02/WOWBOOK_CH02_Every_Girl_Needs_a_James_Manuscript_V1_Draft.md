@@ -1,11 +1,22 @@
 # CH02 – Every Girl Needs a James
 
-**Scripture:** Psalm 68:6 — "God setteth the solitary in families."
-**Theme:** Covering & Family
-**Status:** Not Started
+**Scripture:** Proverbs 18:24 — "A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother."
+**Theme:** Covering, protection, safe love, godly support
+**Status:** Metadata set — awaiting Loretta's full chapter testimony
 
-## Testimony Notes
-The importance of godly covering and love. (Expand with personal details.)
+## Core Meaning
+Every girl needs someone safe, honorable, and protective in her life — someone who reminds her she matters.
 
 ## Chapter Draft
-_(Paste Loretta's full chapter testimony here.)_
+_(Awaiting Loretta's full chapter testimony.)_
+
+---
+
+## 🔒 Production Directions (internal)
+
+**Private Boundary**
+- Do not expose painful childhood details, names, or accusations.
+
+**Visual Direction**
+- Dignified **fatherly / uncle covering** — a protective, honorable father-figure presence. **NOT Jesus.**
+- Early-life chapter → **symbolic cinematic artwork only.** No childhood photos (Loretta was in foster care; the absence of photos is part of the testimony).
