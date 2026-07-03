@@ -43,6 +43,14 @@ Father, thank You for being my covering when no one else could be. You saw the c
 ## Short Caption
 Every girl needs a James. Someone safe. Someone steady. Someone who reminds her she is worth protecting. And when life did not give me everything I needed, God still became my covering.
 
+## Content Notes — In Loving Honor of James
+James is no longer here in the earth, but what he represented still speaks. His life reminds Loretta that covering matters, safety matters, and honor matters. Even after his passing, his role in the story remains part of the testimony.
+
+## Real Photo (testimony insert)
+- **Photo:** `08 Real Testimony Visuals – Needs Review/CH02 James Covering/James_CH02_Insert.jpg` (cropped + placard blurred; James unaltered).
+- **Caption (under the photo):** "James — a covering, a reminder that every girl needs someone safe, steady, and honorable."
+- **Placement:** inside the chapter as the sacred testimony insert + optional 2–3 sec video overlay. Symbolic artwork remains the chapter opener.
+
 ---
 
 ## 🔒 Production Directions (internal — not printed unless Loretta says)

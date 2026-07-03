@@ -14,3 +14,8 @@ Every girl needs a James. Someone safe. Someone steady. Someone who reminds her 
 
 ## Voiceover / Caption
 Warm, tender, faith-filled — Loretta 'Lolo' Hall. Pace: slow, safe, hopeful. CAPTION: "Every girl needs a James — someone safe, someone steady, someone who reminds her she is worth protecting." #FaithOverFear #WalkOnWater #HeavenlyHandsDivine
+
+## Real Photo — Video Overlay (James)
+- Use `James_CH02_Insert.jpg` (cropped + placard blurred; James unaltered) as an optional **2–3 sec video overlay**.
+- On-screen caption: "James — a covering, a reminder that every girl needs someone safe, steady, and honorable."
+- In loving honor (tone: tender, grateful — do NOT show "deceased"): James is no longer here in the earth, but what he represented still speaks. His life reminds Loretta that covering matters, safety matters, and honor matters. Even after his passing, his role in the story remains part of the testimony.

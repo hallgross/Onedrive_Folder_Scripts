@@ -1,23 +1,24 @@
 # CH02 — Every Girl Needs a James
-**Real Testimony Visuals — Needs Loretta Review**
+**Real Testimony Visuals — Needs Loretta Review (after crop/blur)**
 
-> ✅ **A real, original photo of James has been provided** — `James_Original_US_Army_Photo.jpg` (James in U.S. Army uniform, dignified and honorable).
->
-> Note: CH02 is an early-life chapter, so **symbolic cinematic artwork remains the chapter opener**. This is **not a childhood photo of Loretta** — it is a photo of **James himself**, the covering figure — so it is welcome as a **sacred testimony insert** inside the chapter (and optional video overlay), pending Loretta's approval.
+> ✅ **Book version:** `James_CH02_Insert.jpg` — cropped tighter around James; the background placard name has been **blurred** (only the placard — **James is unaltered**). Use this version in the book/video.
+> 📎 **Reference only (do not publish):** `James_Original_US_Army_Photo.jpg` — the full uncropped original, kept for the archive.
 
-| Field | This chapter |
-|-------|--------------|
-| **Chapter opener** | Symbolic cinematic artwork (fatherly/uncle covering, NOT Jesus) |
-| **Real photo on file** | `James_Original_US_Army_Photo.jpg` — James, U.S. Army, dignified |
-| **Use type** | Inside book (testimony insert) / Video overlay |
-| **Privacy check** | Crop suggested — small background sign may show a captain's name; James himself is honorable, keep him. |
-| **Status** | Needs Loretta Review |
+**Photo caption (under the real photo):**
+> "James — a covering, a reminder that every girl needs someone safe, steady, and honorable."
 
-## Photo tag — James_Original_US_Army_Photo.jpg
-- **Suggested chapter:** CH02
-- **What it represents:** James — safe, honorable, protective covering (U.S. Army; standing strong and dignified)
-- **Use type:** Inside book / Video overlay
-- **Privacy check:** Crop/blur the small background placard if it shows a name; James's face & likeness = keep (that is the testimony)
-- **Status:** Needs Loretta Review
+**Placement (approved by Loretta):**
+1. Inside CH02 as the **sacred testimony insert**.
+2. As an optional **2–3 second video overlay**.
+3. Symbolic cinematic artwork remains the **CH02 chapter opener**.
 
-_Privacy: keep James honorable, protective, and dignified. No accusations. Crop/blur any readable names on background signage if Loretta wishes._
+**In loving honor:** James is no longer here in the earth, but what he represented still speaks. His life reminds Loretta that covering matters, safety matters, and honor matters. Even after his passing, his role in the story remains part of the testimony.
+*(Tone: honorable, tender, grateful. Do NOT put "deceased" on the image caption — caption stays exactly as above.)*
+
+| Field | Value |
+|-------|-------|
+| **Book file** | `James_CH02_Insert.jpg` (cropped + placard blurred) |
+| **Represents** | James — safe, honorable, protective covering (U.S. Army; standing strong, dignified) |
+| **Use type** | Inside book (testimony insert) + Video overlay |
+| **Privacy check** | ✅ Placard name blurred; James unaltered; unit sign only (no personal name) |
+| **Status** | Needs Loretta Review (after crop/blur) |
