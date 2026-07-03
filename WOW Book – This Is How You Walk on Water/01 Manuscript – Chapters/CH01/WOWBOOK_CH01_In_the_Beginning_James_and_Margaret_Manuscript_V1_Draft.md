@@ -3,7 +3,7 @@
 **Scripture:** Jeremiah 1:5 — "Before I formed thee in the belly I knew thee…"
 **Theme:** Origins & Foreknowledge
 **Identity:** Known by God before the beginning
-**Status:** Pending Loretta Approval
+**Status:** Approved (Loretta) — 2026-07-03
 
 ---
 

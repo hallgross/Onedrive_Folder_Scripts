@@ -1,7 +1,7 @@
 # CH02 – Every Girl Needs a James
 **Scripture:** Proverbs 18:24
 **Theme:** Covering, protection, safe love, godly support
-**Status:** Pending Loretta Approval
+**Status:** Approved (Loretta) — 2026-07-03
 
 ## Loretta's Video Direction (CH02)
 Open with a soft scene of a young girl near still water or under an oak tree. Show a protective fatherly figure nearby, golden light, and the feeling of safety after instability. *(Symbolic artwork only — no childhood photos.)*

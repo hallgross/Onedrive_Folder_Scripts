@@ -5,7 +5,7 @@
 **Scripture:** Proverbs 18:24
 **Theme:** Covering, protection, safe love, godly support
 **Target visual file:** `WOWBOOK_CH02_Every_Girl_Needs_a_James_V1_Draft.png`
-**Status:** Symbolic artwork (chapter opener) — pending Loretta approval
+**Status:** Symbolic artwork (chapter opener) — Approved (Loretta) — 2026-07-03
 
 ## Visual Direction (Loretta)
 A young girl safe under the covering of a dignified fatherly/uncle figure. Warm, safe, honorable, and **earthly — not Jesus-like.** Keep James honorable, protective, and dignified.

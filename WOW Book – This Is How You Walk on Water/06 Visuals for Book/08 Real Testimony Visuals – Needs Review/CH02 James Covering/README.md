@@ -1,5 +1,5 @@
 # CH02 — Every Girl Needs a James
-**Real Testimony Visuals — Needs Loretta Review (after crop/blur)**
+**Real Testimony Visuals — Approved (Loretta) 2026-07-03**
 
 > ✅ **Book version:** `James_CH02_Insert.jpg` — cropped tighter around James; the background placard name has been **blurred** (only the placard — **James is unaltered**). Use this version in the book/video.
 > 📎 **Reference only (do not publish):** `James_Original_US_Army_Photo.jpg` — the full uncropped original, kept for the archive.
@@ -21,4 +21,4 @@
 | **Represents** | James — safe, honorable, protective covering (U.S. Army; standing strong, dignified) |
 | **Use type** | Inside book (testimony insert) + Video overlay |
 | **Privacy check** | ✅ Placard name blurred; James unaltered; unit sign only (no personal name) |
-| **Status** | Needs Loretta Review (after crop/blur) |
+| **Status** | Approved (Loretta) 2026-07-03 |
