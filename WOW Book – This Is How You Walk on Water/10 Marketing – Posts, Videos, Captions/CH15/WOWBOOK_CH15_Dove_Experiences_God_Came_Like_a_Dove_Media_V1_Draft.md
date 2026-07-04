@@ -11,3 +11,8 @@
 
 ## Voiceover / Caption
 Warm, intimate, faith-filled - Loretta 'Lolo' Hall. Pace: slow, tender, hopeful. SEED LINE: "When I needed peace, God came to me gentle as a dove." ~120-150 words (long) / ~30 words (reel). End with a gentle invitation to keep walking in faith. CAPTION: "God came to me like a dove." - from Chapter 15 of This Is How You Walk on Water. #FaithOverFear #WalkOnWater #HeavenlyHandsDivine
+
+## Loretta's Video Direction (CH15)
+Open with soft light, a quiet sky, a dove moving gently, and the woman looking upward or praying. End with the line: "The dove was the promise that stayed."
+
+**Voiceover starter:** God does not always come with thunder. Sometimes He comes gently, like peace landing on your heart. For me, the dove was not just a bird. It was the promise that stayed.

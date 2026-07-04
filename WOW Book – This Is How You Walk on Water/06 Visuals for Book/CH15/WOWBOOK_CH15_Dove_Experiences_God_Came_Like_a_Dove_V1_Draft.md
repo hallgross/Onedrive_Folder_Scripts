@@ -1,8 +1,11 @@
 # CH15 – The Dove Experiences: God Came Like a Dove
 **Scripture:** Matthew 3:16
-**Theme:** Peace & the Spirit
+**Theme:** Dove encounters, peace, confirmation, promise, Holy Spirit, God's gentle presence
 **Target visual file:** `WOWBOOK_CH15_Dove_Experiences_God_Came_Like_a_Dove_V1_Draft.png`
-**Status:** Not Started
+**Status:** Symbolic artwork — pending Loretta approval (generate in Higgsfield)
 
 ## Book Visual Prompt
-Cinematic, premium faith-based book illustration for 'This Is How You Walk on Water' - Chapter 15: The Dove Experiences: God Came Like a Dove. Scene: a radiant white dove descending in golden light over still water. Mood: peace and the Spirit's visitation. Style: Heavenly Hands Divine - water motif, divine golden light, deep jewel tones (navy, teal, gold), tasteful, hopeful, fine-art testimony illustration. Vertical 2:3, high resolution, no text, no watermark.
+Symbolic cinematic memoir book illustration for Chapter 15: The Dove Experiences — God Came Like a Dove. A graceful, dignified Black woman in prayer or quiet reflection, with a single white dove near her hands or just above her shoulder; soft golden light and water-toned peace surround her. The dove reads as sacred confirmation and promise — gentle and biblical, not fantasy or mystical. Only the one woman; peaceful, tender, holy. Cream, gold, navy, and water-toned palette; clean negative space for a chapter title. Vertical 2:3, high resolution, no text, no watermark.
+
+## Visual Direction (Loretta)
+A graceful Black woman in prayer/reflection, a white dove near her hands or above her shoulder, soft golden light and water-toned peace. Dove = confirmation and promise, **not fantasy**; sacred and gentle. Real dove photos only after Loretta's review (as inserts/overlays).
