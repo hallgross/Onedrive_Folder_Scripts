@@ -9,5 +9,5 @@ Cinematic, premium faith-based book illustration for 'This Is How You Walk on Wa
 
 ## ✅ Chapter Opener Artwork — provided by Loretta
 - **File:** `WOWBOOK_CH11_Hospital_Stay_God_Was_in_the_Room_V1_Draft.png` (in this folder) — Loretta's chosen artwork: a woman resting in a hospital bed bathed in heavenly light, the Lord present in the room; monitor and flowers nearby.
-- **Status:** Loretta's chosen chapter opener — pending final approval.
+- **Status:** Approved (Loretta) — 2026-07-03 — Loretta's chosen chapter opener (locked).
 - _Real hospital photos (privacy-checked) can be added later as inside-chapter testimony inserts._

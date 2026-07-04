@@ -23,5 +23,5 @@ Create a vertical Christian memoir book visual for ‘Mother of Many Nations: Re
 
 ## ✅ Chapter Opener Artwork — provided by Loretta
 - **File:** `WOWBOOK_CH04_Mother_of_Many_Nations_V1_Draft.png` (in this folder) — Loretta's chosen artwork: a dignified woman at the closed door after a long journey, a horizon of many nations, golden light (Isaiah 55:5).
-- **Status:** Loretta's chosen chapter opener — pending final approval.
+- **Status:** Approved (Loretta) — 2026-07-03 — Loretta's chosen chapter opener (locked).
 - _Note: the earlier Higgsfield-generated draft is superseded; kept only as an alternate reference._
