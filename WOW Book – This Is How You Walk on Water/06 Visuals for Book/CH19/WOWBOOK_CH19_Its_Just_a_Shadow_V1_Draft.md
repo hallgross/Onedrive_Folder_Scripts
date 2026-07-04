@@ -9,3 +9,9 @@ Symbolic cinematic memoir book illustration for Chapter 19: It's Just a Shadow. 
 
 ## Visual Direction (Loretta)
 A graceful Black woman under a large, soft **holy shadow of divine covering**, golden light behind her; contrast between darker edge-shadows and the safe shadow of the Almighty above. **No fear, no demons, no horror, no death imagery.** Sacred, calm, protected.
+
+## Generated Visual (Higgsfield) — pending Loretta approval
+- **Model:** nano_banana_2 (Higgsfield), 2:3
+- **Job ID:** `e4c2159c-64cf-4a0c-abbb-f8aa852fa498`
+- **Visual URL:** https://d8j0ntlcm91z4.cloudfront.net/user_3E1AMf8iNHnvHb2OopsVVchSZzc/hf_20260704_212200_e4c2159c-64cf-4a0c-abbb-f8aa852fa498.png
+- **Generated:** 2026-07-04
