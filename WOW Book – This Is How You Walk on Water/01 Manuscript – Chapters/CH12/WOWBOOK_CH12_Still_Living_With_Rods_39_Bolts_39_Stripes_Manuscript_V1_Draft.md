@@ -4,7 +4,7 @@
 
 **Scripture:** Isaiah 53:5 — "...and with his stripes we are healed."
 **Theme:** Pain, healing, spine surgery, rods, bolts, medical scare, endurance, God holding the body together
-**Status:** Needs Loretta / My Grace Review
+**Status:** Approved (Loretta) — 2026-07-03
 
 ---
 
