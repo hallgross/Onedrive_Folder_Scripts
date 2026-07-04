@@ -1,5 +1,5 @@
 # CH19 – It's Just a Shadow
-**Scripture:** Psalm 27:1
+**Scripture:** Psalm 91:1
 **Theme:** Fearlessness
 **Status:** Not Started
 
@@ -11,3 +11,8 @@
 
 ## Voiceover / Caption
 Warm, intimate, faith-filled - Loretta 'Lolo' Hall. Pace: slow, tender, hopeful. SEED LINE: "What loomed like a giant was only a shadow in the light of God." ~120-150 words (long) / ~30 words (reel). End with a gentle invitation to keep walking in faith. CAPTION: "It looked like a giant - it was just a shadow." - from Chapter 19 of This Is How You Walk on Water. #FaithOverFear #WalkOnWater #HeavenlyHandsDivine
+
+## Loretta's Video Direction (CH19)
+Open with a large shadow on a wall or water surface. Then reveal golden light behind it and the woman standing peacefully under God's covering. End with her looking upward, protected and calm.
+
+**Voiceover starter:** Some things look bigger in the dark. But a shadow is not the final word. I learned to stop fearing every shadow and start abiding under the shadow of the Almighty.

@@ -1,8 +1,11 @@
 # CH19 – It's Just a Shadow
-**Scripture:** Psalm 27:1
-**Theme:** Fearlessness
+**Scripture:** Psalm 91:1
+**Theme:** Fear, shadows, protection, perspective, secret place, God's covering, spiritual confidence
 **Target visual file:** `WOWBOOK_CH19_Its_Just_a_Shadow_V1_Draft.png`
-**Status:** Not Started
+**Status:** Symbolic artwork — pending Loretta approval (generate in Higgsfield)
 
 ## Book Visual Prompt
-Cinematic, premium faith-based book illustration for 'This Is How You Walk on Water' - Chapter 19: It's Just a Shadow. Scene: a looming shadow revealed to be small against a great light; fear shrinking before faith. Mood: fearlessness. Style: Heavenly Hands Divine - water motif, divine golden light, deep jewel tones (navy, teal, gold), tasteful, hopeful, fine-art testimony illustration. Feature Loretta 'Lolo' Hall's likeness (Higgsfield Soul 'Coral Elegance Unveiled') as the woman. Vertical 2:3, high resolution, no text, no watermark.
+Symbolic cinematic memoir book illustration for Chapter 19: It's Just a Shadow. A graceful, dignified Black woman standing peacefully under a large, soft, holy shadow of divine covering, with warm golden light behind her. Show contrast between darker shadows around the edges and the safe, sacred shadow of the Almighty above her. NO fear, no demons, no horror, no death imagery. Sacred, calm, protected, faith-filled. Only the one woman. Cream, gold, navy, and water-toned palette; clean negative space for a chapter title. Vertical 2:3, high resolution, no text, no watermark.
+
+## Visual Direction (Loretta)
+A graceful Black woman under a large, soft **holy shadow of divine covering**, golden light behind her; contrast between darker edge-shadows and the safe shadow of the Almighty above. **No fear, no demons, no horror, no death imagery.** Sacred, calm, protected.
