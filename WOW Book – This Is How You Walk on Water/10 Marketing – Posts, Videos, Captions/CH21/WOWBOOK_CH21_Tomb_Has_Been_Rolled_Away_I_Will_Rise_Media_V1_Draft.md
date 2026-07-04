@@ -11,3 +11,8 @@
 
 ## Voiceover / Caption
 Warm, intimate, faith-filled - Loretta 'Lolo' Hall. Pace: slow, tender, hopeful. SEED LINE: "What I buried in grief, God called out of the grave." ~120-150 words (long) / ~30 words (reel). End with a gentle invitation to keep walking in faith. CAPTION: "The stone is rolled away - I will rise." - from Chapter 21 of This Is How You Walk on Water. #FaithOverFear #WalkOnWater #HeavenlyHandsDivine
+
+## Loretta's Video Direction (CH21)
+Open with a sealed stone doorway, silence, then golden light breaking through. Show the stone rolling away and the woman stepping forward into light.
+
+**Voiceover starter:** The tomb was real, but so was resurrection. What looked sealed over my life could not hold me, because God rolled the stone away.

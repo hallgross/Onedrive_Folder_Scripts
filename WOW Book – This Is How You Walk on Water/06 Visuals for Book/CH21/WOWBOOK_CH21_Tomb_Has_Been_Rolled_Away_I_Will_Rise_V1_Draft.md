@@ -1,8 +1,11 @@
 # CH21 – The Tomb Has Been Rolled Away: I Will Rise
 **Scripture:** Matthew 28:2
-**Theme:** Resurrection
+**Theme:** Resurrection, rising again, freedom, deliverance, new life, God opening what was sealed
 **Target visual file:** `WOWBOOK_CH21_Tomb_Has_Been_Rolled_Away_I_Will_Rise_V1_Draft.png`
-**Status:** Not Started
+**Status:** Symbolic artwork — pending Loretta approval (generate in Higgsfield)
 
 ## Book Visual Prompt
-Cinematic, premium faith-based book illustration for 'This Is How You Walk on Water' - Chapter 21: The Tomb Has Been Rolled Away: I Will Rise. Scene: an empty tomb with the stone rolled aside and brilliant resurrection light bursting out. Mood: resurrection and rising. Style: Heavenly Hands Divine - water motif, divine golden light, deep jewel tones (navy, teal, gold), tasteful, hopeful, fine-art testimony illustration. Feature Loretta 'Lolo' Hall's likeness (Higgsfield Soul 'Coral Elegance Unveiled') as the woman. Vertical 2:3, high resolution, no text, no watermark.
+Symbolic cinematic memoir book illustration for Chapter 21: The Tomb Has Been Rolled Away — I Will Rise. A graceful, dignified Black woman stepping out of a dark stone opening into bright golden resurrection light; a large round stone is rolled away beside the entrance. She looks peaceful, strong, and fully alive — the image feels like freedom and resurrection, NOT death. No hopeless graves, nothing dark or frightening. Bright, powerful, victorious, hopeful. Only the one woman. Cream, gold, navy, and water-toned palette; clean negative space for a chapter title. Vertical 2:3, high resolution, no text, no watermark.
+
+## Visual Direction (Loretta)
+A graceful Black woman stepping out of a dark stone opening into golden resurrection light; a large stone rolled away beside the entrance; peaceful, strong, alive. **Freedom and resurrection, NOT death; not dark/frightening; no hopeless graves.** Bright, powerful, victorious.
