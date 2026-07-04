@@ -1,5 +1,5 @@
 # CH20 – This Time the Enemy Will Not Steal
-**Scripture:** Joel 2:25
+**Scripture:** John 10:10
 **Theme:** Recovery & Authority
 **Status:** Not Started
 
@@ -11,3 +11,8 @@
 
 ## Voiceover / Caption
 Warm, intimate, faith-filled - Loretta 'Lolo' Hall. Pace: slow, tender, hopeful. SEED LINE: "I took back, in Jesus' name, everything the enemy tried to steal." ~120-150 words (long) / ~30 words (reel). End with a gentle invitation to keep walking in faith. CAPTION: "This time, the enemy will not steal." - from Chapter 20 of This Is How You Walk on Water. #FaithOverFear #WalkOnWater #HeavenlyHandsDivine
+
+## Loretta's Video Direction (CH20)
+Open with shadows reaching toward a symbolic light or key, then show golden light covering it. A woman stands calmly and firmly, not afraid. End with the line: "This time, the enemy will not steal."
+
+**Voiceover starter:** There comes a point where you recognize the pattern. The thief came to steal, but Jesus came to give life.
