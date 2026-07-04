@@ -1,5 +1,5 @@
 # CH05 – The Footprint of Jesus in My Heart
-**Scripture:** 1 Peter 2:21
+**Scripture:** Psalm 119:105
 **Theme:** Intimacy & Calling
 **Status:** Not Started
 
@@ -11,3 +11,8 @@
 
 ## Voiceover / Caption
 Warm, intimate, faith-filled - Loretta 'Lolo' Hall. Pace: slow, tender, hopeful. SEED LINE: "I learned to walk in the very footprints Jesus left for me." ~120-150 words (long) / ~30 words (reel). End with a gentle invitation to keep walking in faith. CAPTION: "Jesus left His footprint on my heart." - from Chapter 5 of This Is How You Walk on Water. #FaithOverFear #WalkOnWater #HeavenlyHandsDivine
+
+## Loretta's Video Direction (CH05)
+Start with soft golden light, water reflection, a hand over the heart, and the glowing footprint. Let the movement feel quiet and prayerful.
+
+**Voiceover starter:** Pain left marks, but Jesus left something deeper. His footprint is in my heart, and every time I thought I was walking alone, His Word gave me light for the next step.
