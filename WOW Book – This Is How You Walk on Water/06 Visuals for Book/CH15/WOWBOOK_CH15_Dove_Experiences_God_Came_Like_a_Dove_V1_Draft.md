@@ -10,7 +10,7 @@ Symbolic cinematic memoir book illustration for Chapter 15: The Dove Experiences
 ## Visual Direction (Loretta)
 A graceful Black woman in prayer/reflection, a white dove near her hands or above her shoulder, soft golden light and water-toned peace. Dove = confirmation and promise, **not fantasy**; sacred and gentle. Real dove photos only after Loretta's review (as inserts/overlays).
 
-## Generated Visual (Higgsfield) — pending Loretta approval
+## Generated Visual (Higgsfield) — APPROVED (Loretta) 2026-07-03
 - **Model:** nano_banana_2 (Higgsfield), 2:3
 - **Job ID:** `d976cc9e-271d-4586-a02c-d28b8336ee19`
 - **Visual URL:** https://d8j0ntlcm91z4.cloudfront.net/user_3E1AMf8iNHnvHb2OopsVVchSZzc/hf_20260704_205310_d976cc9e-271d-4586-a02c-d28b8336ee19.png
