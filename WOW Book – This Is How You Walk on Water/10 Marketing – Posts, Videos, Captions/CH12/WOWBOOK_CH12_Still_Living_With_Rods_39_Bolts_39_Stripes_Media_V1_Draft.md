@@ -11,3 +11,8 @@
 
 ## Voiceover / Caption
 Warm, intimate, faith-filled - Loretta 'Lolo' Hall. Pace: slow, tender, hopeful. SEED LINE: "I still live with rods, but by His stripes I am healed." ~120-150 words (long) / ~30 words (reel). End with a gentle invitation to keep walking in faith. CAPTION: "39 bolts in my back - by His 39 stripes I am healed." - from Chapter 12 of This Is How You Walk on Water. #FaithOverFear #WalkOnWater #HeavenlyHandsDivine
+
+## Loretta's Video Direction (CH12)
+Open with soft hospital/healing imagery, then a woman standing slowly and steadily, golden light around her back. **No readable medical details.** End with the idea that God is holding her together.
+
+**Voiceover starter:** Some people see me standing and do not know what it costs my body to stand. I am still living with rods, but I am also living with proof that God held me together. “You have been chosen to know Me.”

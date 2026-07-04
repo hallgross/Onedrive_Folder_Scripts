@@ -1,8 +1,11 @@
 # CH12 – Still Living With Rods: 39 Bolts, 39 Stripes
 **Scripture:** Isaiah 53:5
-**Theme:** Pain & Healing
+**Theme:** Pain, healing, spine surgery, rods, bolts, medical scare, endurance, God holding the body together
 **Target visual file:** `WOWBOOK_CH12_Still_Living_With_Rods_39_Bolts_39_Stripes_V1_Draft.png`
-**Status:** Not Started
+**Status:** Symbolic artwork — Needs Loretta / My Grace Review (generate in Higgsfield; real photos = privacy-checked inserts)
 
 ## Book Visual Prompt
-Cinematic, premium faith-based book illustration for 'This Is How You Walk on Water' - Chapter 12: Still Living With Rods: 39 Bolts, 39 Stripes. Scene: a luminous silhouette with rods of golden light along the spine, 39 points of light, echoing Isaiah 53. Mood: pain redeemed into healing. Style: Heavenly Hands Divine - water motif, divine golden light, deep jewel tones (navy, teal, gold), tasteful, hopeful, fine-art testimony illustration. Feature Loretta 'Lolo' Hall's likeness (Higgsfield Soul 'Coral Elegance Unveiled') as the woman. Vertical 2:3, high resolution, no text, no watermark.
+Symbolic cinematic memoir book illustration for Chapter 12: Still Living With Rods — 39 Bolts, 39 Stripes. A graceful, dignified Black woman standing tall and strong, with soft golden light around her back and spine. Represent rods/bolts ONLY symbolically — as subtle lines of light, structure, and strength — never graphic or frightening medical imagery, no visible metal, no wounds. Mood: stable, strong, healed, held by God. Cream, gold, navy, and water-toned palette; clean negative space for a chapter title. Vertical 2:3, high resolution, no text, no watermark.
+
+## Visual Direction (Loretta)
+A graceful Black woman standing with dignity, soft golden light around her back/spine. Rods/bolts represented **symbolically** (subtle light/structure/strength) — **not graphic medical imagery.** Mood: stable, strong, healed, held by God. If real healing photos are added, **crop/blur all private details** (no readable records, chart numbers, X-ray labels, patient numbers).
