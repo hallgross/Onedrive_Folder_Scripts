@@ -11,3 +11,8 @@
 
 ## Voiceover / Caption
 Warm, intimate, faith-filled - Loretta 'Lolo' Hall. Pace: slow, tender, hopeful. SEED LINE: "In the season I lost everything, God kept the one thing the enemy wanted most: me." ~120-150 words (long) / ~30 words (reel). End with a gentle invitation to keep walking in faith. CAPTION: "I lost so much - but God kept me." - from Chapter 7 of This Is How You Walk on Water. #FaithOverFear #WalkOnWater #HeavenlyHandsDivine
+
+## Loretta's Video Direction (CH07)
+Start with dim symbolic home details: keys, sealed envelopes, empty collar, a quiet room. Then show golden light entering. End with the woman standing still and breathing, not defeated.
+
+**Voiceover starter:** It was not one thing. It was everything. Benefits, betrayal, grief, money acting funny, notices, car trouble, and loss after twenty-three years in my home. But even in the season of shadows, God kept me.
