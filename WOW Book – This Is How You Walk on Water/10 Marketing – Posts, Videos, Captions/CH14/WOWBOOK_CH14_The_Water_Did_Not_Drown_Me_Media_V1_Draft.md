@@ -11,3 +11,8 @@
 
 ## Voiceover / Caption
 Warm, intimate, faith-filled - Loretta 'Lolo' Hall. Pace: slow, tender, hopeful. SEED LINE: "The waters that should have buried me became the place I learned to rise." ~120-150 words (long) / ~30 words (reel). End with a gentle invitation to keep walking in faith. CAPTION: "The water did not drown me." - from Chapter 14 of This Is How You Walk on Water. #FaithOverFear #WalkOnWater #HeavenlyHandsDivine
+
+## Loretta's Video Direction (CH14)
+Open with moving water and waves. Show the woman steady in the water, light breaking through, then a calm breath or step forward. End with: "The water did not drown me. It witnessed God keeping me."
+
+**Voiceover starter:** The water was real. The waves were real. But God was with me in the water. What tried to drown me became the place where I learned how to walk.

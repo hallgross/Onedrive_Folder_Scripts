@@ -1,8 +1,11 @@
 # CH14 – The Water Did Not Drown Me
 **Scripture:** Isaiah 43:2
-**Theme:** Survival & Deliverance
+**Theme:** Survival, overwhelm, water, healing, storms, God's presence, not being swallowed
 **Target visual file:** `WOWBOOK_CH14_The_Water_Did_Not_Drown_Me_V1_Draft.png`
-**Status:** Not Started
+**Status:** Symbolic artwork — pending Loretta approval (generate in Higgsfield)
 
 ## Book Visual Prompt
-Cinematic, premium faith-based book illustration for 'This Is How You Walk on Water' - Chapter 14: The Water Did Not Drown Me. Scene: a woman rising up out of deep waters into light, not drowning but ascending. Mood: survival and deliverance. Style: Heavenly Hands Divine - water motif, divine golden light, deep jewel tones (navy, teal, gold), tasteful, hopeful, fine-art testimony illustration. Feature Loretta 'Lolo' Hall's likeness (Higgsfield Soul 'Coral Elegance Unveiled') as the woman. Vertical 2:3, high resolution, no text, no watermark.
+Symbolic cinematic memoir book illustration for Chapter 14: The Water Did Not Drown Me. A graceful, dignified Black woman standing in or emerging from deep water, surrounded by movement but NOT drowning — steady, held, at peace. Golden heavenly light rests over her; the water is powerful but clearly under God's authority. Mood: survival, healing, divine presence — beautiful, sacred, hopeful; never fear, panic, drowning, or death. Only the one woman, no other people. Cream, gold, navy, and water-toned palette; clean negative space for a chapter title. Vertical 2:3, high resolution, no text, no watermark.
+
+## Visual Direction (Loretta)
+A graceful Black woman standing in or emerging from deep water, surrounded by movement but **not drowning**. Golden heavenly light over her; the water powerful but under God's authority. Survival, healing, divine presence. **No drowning/fear/death/panic; no trauma; no other people; water powerful but beautiful and hopeful.**

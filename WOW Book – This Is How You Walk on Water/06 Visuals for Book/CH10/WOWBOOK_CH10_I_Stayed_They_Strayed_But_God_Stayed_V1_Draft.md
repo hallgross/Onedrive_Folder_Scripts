@@ -10,7 +10,7 @@ Symbolic cinematic memoir book illustration for Chapter 10: I Stayed. They Stray
 ## Visual Direction (Loretta)
 A graceful Black woman on a quiet path, shoreline, or near a doorway. Faint footsteps move away in the distance, but golden light remains beside her — endurance, sorrow, release, God's steady presence. **No identifiable people.**
 
-## Generated Visual (Higgsfield) — pending Loretta approval
+## Generated Visual (Higgsfield) — APPROVED (Loretta) 2026-07-03
 - **Model:** nano_banana_2 (Higgsfield), 2:3
 - **Job ID:** `0e503490-d3d1-4cd1-bd09-b87a7feafba7`
 - **Visual URL:** https://d8j0ntlcm91z4.cloudfront.net/user_3E1AMf8iNHnvHb2OopsVVchSZzc/hf_20260704_203831_0e503490-d3d1-4cd1-bd09-b87a7feafba7.png

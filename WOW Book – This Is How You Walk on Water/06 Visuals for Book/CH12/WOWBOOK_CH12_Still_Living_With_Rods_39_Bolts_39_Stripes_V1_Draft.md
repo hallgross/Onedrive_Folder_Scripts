@@ -10,7 +10,7 @@ Symbolic cinematic memoir book illustration for Chapter 12: Still Living With Ro
 ## Visual Direction (Loretta)
 A graceful Black woman standing with dignity, soft golden light around her back/spine. Rods/bolts represented **symbolically** (subtle light/structure/strength) — **not graphic medical imagery.** Mood: stable, strong, healed, held by God. If real healing photos are added, **crop/blur all private details** (no readable records, chart numbers, X-ray labels, patient numbers).
 
-## Generated Visual (Higgsfield) — pending Loretta approval
+## Generated Visual (Higgsfield) — APPROVED (Loretta) 2026-07-03
 - **Model:** nano_banana_2 (Higgsfield), 2:3
 - **Job ID:** `67a92f5e-6af2-4b32-a105-9f589733b491`
 - **Visual URL:** https://d8j0ntlcm91z4.cloudfront.net/user_3E1AMf8iNHnvHb2OopsVVchSZzc/hf_20260704_203834_67a92f5e-6af2-4b32-a105-9f589733b491.png
