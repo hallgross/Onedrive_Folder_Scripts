@@ -1,8 +1,11 @@
 # CH09 – The Daughter I Raised, the Silence I Carry
-**Scripture:** Psalm 56:8
-**Theme:** Hidden Grief & Love
+**Scripture:** Isaiah 49:15
+**Theme:** A mother's silent love; release not rejection; God remembers every seed and prayer
 **Target visual file:** `WOWBOOK_CH09_The_Daughter_I_Raised_the_Silence_I_Carry_V1_Draft.png`
-**Status:** Not Started
+**Status:** Symbolic artwork — pending Loretta approval (generate in Higgsfield)
 
 ## Book Visual Prompt
-Cinematic, premium faith-based book illustration for 'This Is How You Walk on Water' - Chapter 9: The Daughter I Raised, the Silence I Carry. Scene: a mother's hands holding an empty photo frame in a quiet room touched by a fragile light of hope. Mood: silent grief and enduring love. Style: Heavenly Hands Divine - water motif, divine golden light, deep jewel tones (navy, teal, gold), tasteful, hopeful, fine-art testimony illustration. Feature Loretta 'Lolo' Hall's likeness (Higgsfield Soul 'Coral Elegance Unveiled') as the woman. Vertical 2:3, high resolution, no text, no watermark.
+Symbolic cinematic memoir book illustration for Chapter 9: The Daughter I Raised, the Silence I Carry. A graceful Black woman sitting near a window, bed, chair, or water reflection, holding a folded blanket, letter, or small keepsake; posture of quiet love and prayer, not anger; golden light resting on her hands and heart. IMPORTANT: NO other person's face shown. Cream, gold, navy, and water-toned accents; dignified, prayerful, healing; clean space for a chapter title. Vertical 2:3, high resolution, no text, no watermark.
+
+## Visual Direction (Loretta)
+A graceful Black woman near a window/bed/chair or water reflection, holding a folded blanket, letter, or small keepsake; quiet love and prayer, **not anger**; golden light on her hands and heart. **No other person's face shown.**

@@ -1,5 +1,5 @@
 # CH09 – The Daughter I Raised, the Silence I Carry
-**Scripture:** Psalm 56:8
+**Scripture:** Isaiah 49:15
 **Theme:** Hidden Grief & Love
 **Status:** Not Started
 
@@ -11,3 +11,8 @@
 
 ## Voiceover / Caption
 Warm, intimate, faith-filled - Loretta 'Lolo' Hall. Pace: slow, tender, hopeful. SEED LINE: "God hears the prayers I pray in silence over the ones I love." ~120-150 words (long) / ~30 words (reel). End with a gentle invitation to keep walking in faith. CAPTION: "The silence I carry, God hears." - from Chapter 9 of This Is How You Walk on Water. #FaithOverFear #WalkOnWater #HeavenlyHandsDivine
+
+## Loretta's Video Direction (CH09)
+Open with a quiet room, a folded blanket or keepsake, soft hands, and a woman praying silently. End with light and release. **No other person's face.**
+
+**Voiceover starter:** There are some silences only a mother's heart understands. I carried love, pain, prayers, and questions — but I learned to place what I could not fix into God's hands.

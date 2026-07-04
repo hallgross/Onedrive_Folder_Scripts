@@ -19,6 +19,10 @@ Personal photos are **testimony inserts, not the main artwork for every chapter.
 - Loretta tells Cowork which of *her* images to use, per chapter. Any AI/generated image is a **placeholder only**, never treated as final.
 - Per the HHD brand rule: **Loretta is her own model.** Her real photos lead.
 
+### 📌 Standing directives from Loretta
+1. **Every chapter gets prompts for BOTH the visual and the video** (book-visual prompt + short/long video prompts + voiceover) — kept in the production map and each chapter's visual/marketing files.
+2. **Use Loretta's elegant personal pictures throughout the book** where appropriate (author photos + testimony inserts), and **generate the cinematic chapter artwork in Higgsfield** from the visual prompts. (Early-life CH01–CH04 stay symbolic — no childhood photos; sensitive chapters protect others' identities.)
+
 ---
 
 ## 🔄 How each chapter flows

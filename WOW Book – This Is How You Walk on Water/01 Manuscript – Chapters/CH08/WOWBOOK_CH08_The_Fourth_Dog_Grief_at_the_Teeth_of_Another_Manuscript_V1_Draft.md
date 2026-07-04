@@ -2,7 +2,7 @@
 
 **Scripture:** Psalm 34:18 — "The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit."
 **Theme:** Grief, loss, trauma, companionship, love, brokenheartedness, God's comfort
-**Status:** Needs Loretta / My Grace Content Review
+**Status:** Approved (Loretta) — 2026-07-03
 
 ---
 
