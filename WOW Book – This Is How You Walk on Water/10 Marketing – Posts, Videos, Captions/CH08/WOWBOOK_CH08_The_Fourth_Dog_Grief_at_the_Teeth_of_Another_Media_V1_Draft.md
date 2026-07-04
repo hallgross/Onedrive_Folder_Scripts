@@ -11,3 +11,8 @@
 
 ## Voiceover / Caption
 Warm, intimate, faith-filled - Loretta 'Lolo' Hall. Pace: slow, tender, hopeful. SEED LINE: "Even in repeated grief, the God of all comfort drew near to me." ~120-150 words (long) / ~30 words (reel). End with a gentle invitation to keep walking in faith. CAPTION: "Grief came again - and so did God's comfort." - from Chapter 8 of This Is How You Walk on Water. #FaithOverFear #WalkOnWater #HeavenlyHandsDivine
+
+## Loretta's Video Direction (CH08)
+Begin with a quiet home, an empty collar, soft light, and hands holding memory. Tender, not dramatic. End with golden light and the line: "God is near to the brokenhearted."
+
+**Voiceover starter:** Some losses sound small to people who did not love what you loved. But grief knows the truth. When I lost my fourth dog, God was near to my broken heart.
