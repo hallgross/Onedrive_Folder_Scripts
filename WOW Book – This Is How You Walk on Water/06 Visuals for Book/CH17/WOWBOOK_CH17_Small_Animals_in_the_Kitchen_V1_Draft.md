@@ -10,7 +10,7 @@ Symbolic cinematic memoir book illustration for Chapter 17: Small Animals in the
 ## Visual Direction (Loretta)
 Humble kitchen, soft golden light; a graceful Black woman standing peacefully with spiritual awareness of small **gentle** symbolic animals. **Not scary/dirty/chaotic/horror; no infestation; no graphic imagery.** Says: God can speak in ordinary places.
 
-## Generated Visual (Higgsfield) — pending Loretta approval
+## Generated Visual (Higgsfield) — APPROVED (Loretta) 2026-07-03
 - **Model:** nano_banana_2 (Higgsfield), 2:3
 - **Job ID:** `4322baa1-a26a-4ae2-b386-4a695e96584e`
 - **Visual URL:** https://d8j0ntlcm91z4.cloudfront.net/user_3E1AMf8iNHnvHb2OopsVVchSZzc/hf_20260704_211101_4322baa1-a26a-4ae2-b386-4a695e96584e.png

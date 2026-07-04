@@ -1,5 +1,5 @@
 # CH18 – Daniel 10: The Battle for Delayed Blessings
-**Scripture:** Daniel 10:12
+**Scripture:** Daniel 10:12–13
 **Theme:** Spiritual Warfare / Delay
 **Status:** Not Started
 
@@ -11,3 +11,8 @@
 
 ## Voiceover / Caption
 Warm, intimate, faith-filled - Loretta 'Lolo' Hall. Pace: slow, tender, hopeful. SEED LINE: "For twenty-one days heaven fought for me - the answer was on its way the whole time." ~120-150 words (long) / ~30 words (reel). End with a gentle invitation to keep walking in faith. CAPTION: "Your blessing was delayed, not denied." - from Chapter 18 of This Is How You Walk on Water. #FaithOverFear #WalkOnWater #HeavenlyHandsDivine
+
+## Loretta's Video Direction (CH18)
+Open with prayer, stillness, waiting, a sense of silence. Then golden light moving through clouds, like help being released. End with a peaceful but victorious image of the woman still standing in faith.
+
+**Voiceover starter:** I thought the delay meant God had not answered. But Daniel 10 taught me that Heaven heard from the first day. The battle was real — but so was the answer.

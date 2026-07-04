@@ -1,8 +1,11 @@
 # CH18 – Daniel 10: The Battle for Delayed Blessings
-**Scripture:** Daniel 10:12
-**Theme:** Spiritual Warfare / Delay
+**Scripture:** Daniel 10:12–13
+**Theme:** Delayed answers, spiritual warfare, prayer, persistence, unseen battles, angelic help
 **Target visual file:** `WOWBOOK_CH18_Daniel_10_Battle_for_Delayed_Blessings_V1_Draft.png`
-**Status:** Not Started
+**Status:** Symbolic artwork — pending Loretta approval (generate in Higgsfield)
 
 ## Book Visual Prompt
-Cinematic, premium faith-based book illustration for 'This Is How You Walk on Water' - Chapter 18: Daniel 10: The Battle for Delayed Blessings. Scene: an angel breaking through dark storm clouds with an answer of light after a long battle. Mood: perseverance and unseen warfare. Style: Heavenly Hands Divine - water motif, divine golden light, deep jewel tones (navy, teal, gold), tasteful, hopeful, fine-art testimony illustration. Vertical 2:3, high resolution, no text, no watermark.
+Symbolic cinematic memoir book illustration for Chapter 18: Daniel 10 — The Battle for Delayed Blessings. A graceful, dignified Black woman kneeling or standing in earnest prayer below, with soft golden heavenly light and gentle movement above her — symbolic angelic light and breakthrough being released through the clouds, representing unseen help. NO demons, no frightening imagery, no graphic warfare. Mood: intense but hopeful, victorious, faith-filled — the answer heard from the first day. Only the one woman. Cream, gold, navy, and water-toned palette; clean negative space for a chapter title. Vertical 2:3, high resolution, no text, no watermark.
+
+## Visual Direction (Loretta)
+A graceful Black woman kneeling/standing in prayer below, soft golden heavenly movement above (unseen help & breakthrough). **Symbolic angelic light — NOT demons/frightening/graphic warfare.** Intense but hopeful, victorious; heard from the first day.
