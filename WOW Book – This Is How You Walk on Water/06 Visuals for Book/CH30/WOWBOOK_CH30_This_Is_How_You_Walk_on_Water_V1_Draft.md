@@ -1,8 +1,8 @@
 # CH30 – This Is How You Walk on Water
 **Scripture:** Matthew 14:29
-**Theme:** Faith Over Fear (Culmination)
+**Theme:** Faith, obedience, stepping out, water testimony, surrender, knowing God through the storm
 **Target visual file:** `WOWBOOK_CH30_This_Is_How_You_Walk_on_Water_V1_Draft.png`
-**Status:** Not Started
+**Status:** Symbolic artwork — pending Loretta approval (generate in Higgsfield)
 
 ## Book Visual Prompt
-Cinematic, premium faith-based book illustration for 'This Is How You Walk on Water' - Chapter 30: This Is How You Walk on Water. Scene: a radiant woman walking on shining water toward the light of Jesus at majestic dawn (signature image). Mood: faith over fear, the culmination. Style: Heavenly Hands Divine - water motif, divine golden light, deep jewel tones (navy, teal, gold), tasteful, hopeful, fine-art testimony illustration. Feature Loretta 'Lolo' Hall's likeness (Higgsfield Soul 'Coral Elegance Unveiled') as the woman. Vertical 2:3, high resolution, no text, no watermark.
+Symbolic cinematic memoir book illustration — the FINALE, Chapter 30: This Is How You Walk on Water. A graceful, dignified Black woman walking peacefully on the surface of deep water toward radiant golden heavenly light, eyes fixed ahead, at perfect peace. The water is powerful yet calm and clearly under God's authority; waves move but do not threaten her. The image feels like a triumphant book conclusion — faith, healing, obedience, testimony. NO fear, no drowning, no chaos. Only the one woman. Painterly, luminous, majestic; cream, gold, navy, and water-toned palette; clean negative space at the top for a chapter title. Vertical 2:3, high resolution, no text, no watermark.

@@ -1,5 +1,5 @@
 # CH28 – Faith Under Fire: I Still Believe
-**Scripture:** Daniel 3:17
+**Scripture:** Daniel 3:17–18
 **Theme:** Tested Faith
 **Status:** Not Started
 
