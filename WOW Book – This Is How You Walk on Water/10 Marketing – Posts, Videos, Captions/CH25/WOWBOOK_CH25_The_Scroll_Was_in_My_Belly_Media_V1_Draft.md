@@ -1,5 +1,5 @@
 # CH25 – The Scroll Was in My Belly
-**Scripture:** Ezekiel 3:3
+**Scripture:** Ezekiel 3:1
 **Theme:** Prophetic Word Within
 **Status:** Not Started
 
@@ -11,3 +11,8 @@
 
 ## Voiceover / Caption
 Warm, intimate, faith-filled - Loretta 'Lolo' Hall. Pace: slow, tender, hopeful. SEED LINE: "God placed His word inside me until it became my very breath." ~120-150 words (long) / ~30 words (reel). End with a gentle invitation to keep walking in faith. CAPTION: "The scroll was in my belly - God's word became part of me." - from Chapter 25 of This Is How You Walk on Water. #FaithOverFear #WalkOnWater #HeavenlyHandsDivine
+
+## Loretta's Video Direction (CH25)
+Open with a close symbolic shot of hands near the heart/belly, then a glowing scroll unfolding in light. Show writing, prayer, and quiet birthing of purpose. End with the woman holding the scroll with reverence.
+
+**Voiceover starter:** Before the scroll was in my hand, it was in my belly. Before it became something people could see, God had already written it inside of me.
