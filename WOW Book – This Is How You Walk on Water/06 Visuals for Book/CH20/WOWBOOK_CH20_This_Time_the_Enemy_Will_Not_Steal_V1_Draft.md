@@ -10,7 +10,7 @@ Symbolic cinematic memoir book illustration for Chapter 20: This Time the Enemy 
 ## Visual Direction (Loretta)
 A graceful Black woman with spiritual authority, holding something symbolic of promise (light/key/scroll/covered treasure) as golden light surrounds and protects it. Faint broken chains/shadows may be in the background but **not scary — no demons/frightening imagery.** Authoritative, victorious, grounded in Jesus.
 
-## Generated Visual (Higgsfield) — pending Loretta approval
+## Generated Visual (Higgsfield) — APPROVED (Loretta) 2026-07-03
 - **Model:** nano_banana_2 (Higgsfield), 2:3
 - **Job ID:** `29126529-b6d7-4360-b303-6d592cc1fae2`
 - **Visual URL:** https://d8j0ntlcm91z4.cloudfront.net/user_3E1AMf8iNHnvHb2OopsVVchSZzc/hf_20260704_221537_29126529-b6d7-4360-b303-6d592cc1fae2.png

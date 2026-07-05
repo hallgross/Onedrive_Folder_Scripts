@@ -2,7 +2,7 @@
 
 **Scripture:** John 10:10 — "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life…"
 **Theme:** Restoration, guarding the promise, spiritual authority, recovery, refusing theft, God's protection
-**Status:** Pending Loretta Approval
+**Status:** Approved (Loretta) — 2026-07-03
 
 ---
 
