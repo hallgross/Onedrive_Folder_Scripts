@@ -10,7 +10,7 @@ Symbolic cinematic memoir book illustration for Chapter 27: Rise Above the Soil 
 ## Visual Direction (Loretta)
 A graceful Black woman near dark soil where a green plant / golden vine breaks through into light — emergence, fruitfulness, resurrection life. Warm golden light, water-toned accents, hopeful. **No grave imagery; not dark or death-focused.**
 
-## Generated Visual (Higgsfield) — pending Loretta approval
+## Generated Visual (Higgsfield) — APPROVED (Loretta) 2026-07-03
 - **Model:** nano_banana_2 (Higgsfield), 2:3
 - **Job ID:** `6c54865f-c686-40bb-b625-ddce54fc7aa9`
 - **Visual URL:** https://d8j0ntlcm91z4.cloudfront.net/user_3E1AMf8iNHnvHb2OopsVVchSZzc/hf_20260705_013205_6c54865f-c686-40bb-b625-ddce54fc7aa9.png

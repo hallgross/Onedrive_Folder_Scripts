@@ -1,8 +1,8 @@
 # CH29 – I'm Dancing on the Grave I Once Lived In
 **Scripture:** Psalm 30:11
-**Theme:** Triumphant Joy
+**Theme:** Victory, resurrection joy, freedom, celebration, no longer living in the old place, testimony after survival
 **Target visual file:** `WOWBOOK_CH29_Dancing_on_the_Grave_I_Once_Lived_In_V1_Draft.png`
-**Status:** Not Started
+**Status:** Symbolic artwork — pending Loretta approval (generate in Higgsfield)
 
 ## Book Visual Prompt
-Cinematic, premium faith-based book illustration for 'This Is How You Walk on Water' - Chapter 29: I'm Dancing on the Grave I Once Lived In. Scene: a woman joyfully dancing in light upon an empty grave, victory over death. Mood: triumphant joy. Style: Heavenly Hands Divine - water motif, divine golden light, deep jewel tones (navy, teal, gold), tasteful, hopeful, fine-art testimony illustration. Feature Loretta 'Lolo' Hall's likeness (Higgsfield Soul 'Coral Elegance Unveiled') as the woman. Vertical 2:3, high resolution, no text, no watermark.
+Symbolic cinematic memoir book illustration for Chapter 29: I'm Dancing on the Grave I Once Lived In. A graceful, dignified Black woman dancing joyfully in warm golden resurrection light over symbolic ground representing the old life — soft stone, blooming flowers, gently broken chains, water reflections, a rolled-away shadow. NOT a literal grave, no names/dates/markers, no cemetery details, nothing dark or morbid. Mood: joyful, free, victorious, sacred, celebratory. Only the one woman. Painterly, luminous; cream, gold, navy, and water-toned palette; clean negative space for a chapter title. Vertical 2:3, high resolution, no text, no watermark.

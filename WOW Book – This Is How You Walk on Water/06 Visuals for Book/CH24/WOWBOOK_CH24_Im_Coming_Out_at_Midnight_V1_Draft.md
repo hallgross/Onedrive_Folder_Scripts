@@ -1,8 +1,8 @@
 # CH24 – I'm Coming Out at Midnight
-**Scripture:** Acts 16:26
-**Theme:** Midnight Breakthrough
+**Scripture:** Acts 16:25–26
+**Theme:** Midnight breakthrough, praise in pain, deliverance, closed doors opening, God moving in the darkest hour
 **Target visual file:** `WOWBOOK_CH24_Im_Coming_Out_at_Midnight_V1_Draft.png`
-**Status:** Not Started
+**Status:** Symbolic artwork — pending Loretta approval (generate in Higgsfield)
 
 ## Book Visual Prompt
-Cinematic, premium faith-based book illustration for 'This Is How You Walk on Water' - Chapter 24: I'm Coming Out at Midnight. Scene: prison doors flung open at midnight as golden light breaks the darkness. Mood: breakthrough at the darkest hour. Style: Heavenly Hands Divine - water motif, divine golden light, deep jewel tones (navy, teal, gold), tasteful, hopeful, fine-art testimony illustration. Feature Loretta 'Lolo' Hall's likeness (Higgsfield Soul 'Coral Elegance Unveiled') as the woman. Vertical 2:3, high resolution, no text, no watermark.
+Symbolic cinematic memoir book illustration for Chapter 24: I'm Coming Out at Midnight. A graceful, dignified Black woman standing in worship in a dark but sacred midnight scene, hands lifted, as soft golden light breaks through a set of opening doors and gently falling chains behind her. Worship in the night and breakthrough beginning — never fear, imprisonment, or hopelessness; any jail element is symbolic and dignified only. Mood: prayerful, powerful, hopeful, deliverance dawning. Only the one woman. Cream, gold, navy, and water-toned palette; clean negative space for a chapter title. Vertical 2:3, high resolution, no text, no watermark.

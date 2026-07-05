@@ -1,5 +1,5 @@
 # CH24 – I'm Coming Out at Midnight
-**Scripture:** Acts 16:26
+**Scripture:** Acts 16:25–26
 **Theme:** Midnight Breakthrough
 **Status:** Not Started
 
