@@ -1,7 +1,7 @@
 # CH22 – Dry Bones Rattling: It Is Finished
 
 **Scripture:** Ezekiel 37:4–5 — "Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the Lord…"
-**Theme:** Restoration, resurrection, prophecy, breath, the valley, God's Word bringing life
+**Theme:** Restoration, resurrection, prophecy, dead places coming alive, God breathing again
 **Status:** Approved (Loretta) — 2026-07-03
 
 ---
@@ -98,6 +98,9 @@ God is not finished with me.
 ---
 
 ## 🔒 Production Directions (internal — not printed unless Loretta says)
+
+**Where God Was**
+God was in the valley. God was in the dry places. God was in the sound of rattling. God was in the breath coming back. God was proving that dead does not mean done when He is speaking.
 
 **Privacy Boundaries**
 - Do not make the visual dark, scary, or death-focused.
