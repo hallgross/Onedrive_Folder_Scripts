@@ -9,3 +9,9 @@ Symbolic cinematic memoir book illustration for Chapter 22: Dry Bones Rattling �
 
 ## Visual Direction (Loretta)
 A prophetic valley: dry bones symbolically coming together under golden heavenly breath, a graceful Black woman standing in faith, speaking/praying. Biblical and powerful **but not frightening — no horror/skulls/demons/scary bones.** Restoration and breath, not death.
+
+## Generated Visual (Higgsfield) — pending Loretta approval
+- **Model:** nano_banana_2 (Higgsfield), 2:3
+- **Job ID:** `f6064e58-1162-4c71-a181-fcf2cb2af9dd`
+- **Visual URL:** https://d8j0ntlcm91z4.cloudfront.net/user_3E1AMf8iNHnvHb2OopsVVchSZzc/hf_20260705_003051_f6064e58-1162-4c71-a181-fcf2cb2af9dd.png
+- **Generated:** 2026-07-04
