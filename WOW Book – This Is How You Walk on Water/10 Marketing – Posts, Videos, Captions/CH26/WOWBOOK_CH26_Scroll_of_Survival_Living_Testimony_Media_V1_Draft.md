@@ -1,5 +1,5 @@
 # CH26 – The Scroll of Survival: Living Testimony
-**Scripture:** Revelation 12:11
+**Scripture:** Malachi 3:16
 **Theme:** Testimony & Survival
 **Status:** Not Started
 
@@ -11,3 +11,8 @@
 
 ## Voiceover / Caption
 Warm, intimate, faith-filled - Loretta 'Lolo' Hall. Pace: slow, tender, hopeful. SEED LINE: "My survival itself became a scroll the world could read." ~120-150 words (long) / ~30 words (reel). End with a gentle invitation to keep walking in faith. CAPTION: "My survival is a scroll - a living testimony." - from Chapter 26 of This Is How You Walk on Water. #FaithOverFear #WalkOnWater #HeavenlyHandsDivine
+
+## Loretta's Video Direction (CH26)
+Open with pages or a scroll gently unfolding in golden light. Show symbolic scenes of water, hospital light, shadows, and a doorway very softly, then return to the woman standing as a living testimony.
+
+**Voiceover starter:** Some people write their story after they survive. But sometimes, your survival is the story. My life became a scroll of survival — a living testimony that God remembered me.
