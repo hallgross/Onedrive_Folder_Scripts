@@ -9,3 +9,9 @@ Symbolic cinematic memoir book illustration for Chapter 25: The Scroll Was in My
 
 ## Visual Direction (Loretta)
 A graceful Black woman in prayer / a sacred writing space, warm golden light around her heart/belly, a symbolic glowing scroll unfolding gently. Scroll = Word, testimony, assignment — **NOT a product mockup / merchandise.** Sacred, authorial, prophetic, deeply personal.
+
+## Generated Visual (Higgsfield) — pending Loretta approval
+- **Model:** nano_banana_2 (Higgsfield), 2:3
+- **Job ID:** `09154242-fc37-4611-be2b-a31b87163b4f`
+- **Visual URL:** https://d8j0ntlcm91z4.cloudfront.net/user_3E1AMf8iNHnvHb2OopsVVchSZzc/hf_20260705_012635_09154242-fc37-4611-be2b-a31b87163b4f.png
+- **Generated:** 2026-07-05
