@@ -14,3 +14,6 @@ Deploy `WOW Book – This Is How You Walk on Water/wow-book.html` as the **`/wow
 - Do **not** point `/wow-book` at WOWB scroll/product data.
 - Do **not** rename WOW Prayer Scrolls back to WOW Book.
 - WOWBOOK and WOWB remain **separate lanes**.
+
+## ✉️ Ready-to-send Manus message (copy/paste)
+> Manus — please restore the **/wow-book** page on heavenhd-d638retm.manus.space. Deploy the file `WOW Book – This Is How You Walk on Water/wow-book.html` (in the repo) as the `/wow-book` route. This is the **WOWBOOK manuscript lane** (the 30-chapter testimony book) — do NOT point it at WOWB scroll/product data, and do NOT rename WOW Prayer Scrolls back to WOW Book. Keep WOWBOOK and WOWB as separate lanes. Confirm the URL opens after deploy.
