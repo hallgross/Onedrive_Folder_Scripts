@@ -2,7 +2,7 @@
 
 **Scripture:** Psalm 27:10 — "When my father and my mother forsake me, then the Lord will take me up."
 **Theme:** Foster care, belonging, God's presence when the room wasn't home
-**Status:** Needs Loretta Review
+**Status:** Approved (Loretta) — 2026-07-03
 
 ---
 
@@ -29,6 +29,19 @@ I may not have all the childhood pictures, but I have testimony. I may not have 
 This chapter is not written to make my childhood look easy.
 
 It is written to say that God was present in the rooms that did not feel like home.
+
+## Reader Takeaway
+You do not need photographs to prove you were kept. Even in the rooms that did not feel like home, God was present, and He took you up.
+
+## Prayer
+Lord, thank You for being with me in every room that did not feel like home. Thank You for seeing the child no one could fully hold, and taking me up. Heal the places that still search for belonging, and remind me that I am covered, chosen, and rooted in You. Let every reader who has felt unseen know that You were there all along. In Jesus' name, amen.
+
+## Declaration
+God was present in the rooms that did not feel like home.
+The Lord took me up when life did not hold me.
+I am covered, chosen, and rooted in God.
+My testimony is my evidence.
+I belong to God.
 
 ---
 

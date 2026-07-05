@@ -2,7 +2,7 @@
 
 **Scripture:** Isaiah 55:5 — "Behold, thou shalt call a nation that thou knowest not, and nations that knew not thee shall run unto thee because of the LORD thy God, and for the Holy One of Israel; for he hath glorified thee."
 **Theme:** Rejection, mother wound, identity, nations, divine calling
-**Status:** Needs Loretta Review
+**Status:** Approved (Loretta) — 2026-07-03
 
 ---
 
@@ -63,6 +63,19 @@ I was turned away from a door.
 But I was called into nations.
 
 And that is how I know God was there.
+
+## Reader Takeaway
+A closed door cannot cancel the word God spoke over you. What people denied, God can redeem — and what rejected you cannot undo what He called you to.
+
+## Prayer
+Lord, thank You for naming me before pain could bury me. Heal the mother wound and the ache of being turned away. Remind me that while one door closed, Heaven stayed open over me. Help me carry people in prayer, cover sons and daughters in the spirit, and walk in the calling You placed in me before rejection ever touched me. Let every reader who was turned away know they are still called. In Jesus' name, amen.
+
+## Declaration
+God named me before pain could bury me.
+What people denied, God redeemed.
+The closed door could not cancel the Word that called me.
+I was turned away from a door, but I was called into nations.
+I am Mother of Many Nations.
 
 ---
 

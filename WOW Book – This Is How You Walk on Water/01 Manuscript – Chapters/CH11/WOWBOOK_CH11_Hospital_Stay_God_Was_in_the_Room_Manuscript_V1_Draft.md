@@ -2,7 +2,7 @@
 
 **Scripture:** Psalm 46:1 — "God is our refuge and strength, a very present help in trouble."
 **Theme:** Hospital stay; God present in weakness; healing beyond the physical
-**Status:** Needs Loretta Review
+**Status:** Approved (Loretta) — 2026-07-03
 
 ---
 
@@ -47,6 +47,19 @@ I am here because God was with me while it did.
 The hospital stay did not get the final word.
 
 God was in the room.
+
+## Reader Takeaway
+God does not wait outside the door until you are strong enough. He is a very present help — with you in the weakness, in the waiting, and in the room.
+
+## Prayer
+Lord, thank You for being present in the room when I was weak. Thank You for meeting me in the short prayers, the tears, and the moments I could only look up. Turn every room of machines into a room of mercy, and every bed of weakness into an altar of trust. Heal what is physical, emotional, and spiritual. Let every reader in a hard place know You are a very present help in trouble. In Jesus' name, amen.
+
+## Declaration
+God was in the room.
+He is a very present help in trouble.
+Healing is physical, emotional, and spiritual.
+The hospital stay did not get the final word.
+God was with me while my body went through it.
 
 ---
 
