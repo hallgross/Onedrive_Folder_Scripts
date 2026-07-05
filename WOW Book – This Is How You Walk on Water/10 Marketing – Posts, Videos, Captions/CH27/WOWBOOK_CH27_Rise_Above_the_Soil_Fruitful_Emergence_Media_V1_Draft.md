@@ -11,3 +11,8 @@
 
 ## Voiceover / Caption
 Warm, intimate, faith-filled - Loretta 'Lolo' Hall. Pace: slow, tender, hopeful. SEED LINE: "What looked buried was only planted, and now it is bearing fruit." ~120-150 words (long) / ~30 words (reel). End with a gentle invitation to keep walking in faith. CAPTION: "What was buried is rising - fruitful at last." - from Chapter 27 of This Is How You Walk on Water. #FaithOverFear #WalkOnWater #HeavenlyHandsDivine
+
+## Loretta's Video Direction (CH27)
+Open with soil and seed imagery. Show roots forming, a plant breaking through, and golden light touching the woman as she rises. End with fruitfulness and hope.
+
+**Voiceover starter:** What I thought was burial, God was using as planting. The soil did not stop me — it strengthened me. I am not just coming up. I am coming up fruitful.
