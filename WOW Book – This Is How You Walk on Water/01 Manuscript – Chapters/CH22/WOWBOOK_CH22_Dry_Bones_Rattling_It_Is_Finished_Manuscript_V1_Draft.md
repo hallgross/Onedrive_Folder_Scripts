@@ -2,7 +2,7 @@
 
 **Scripture:** Ezekiel 37:4–5 — "Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the Lord…"
 **Theme:** Restoration, resurrection, prophecy, breath, the valley, God's Word bringing life
-**Status:** Pending Loretta Approval
+**Status:** Approved (Loretta) — 2026-07-03
 
 ---
 
