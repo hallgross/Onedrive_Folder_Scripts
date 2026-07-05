@@ -6,3 +6,9 @@
 
 ## Book Visual Prompt
 Symbolic cinematic memoir book illustration for Chapter 29: I'm Dancing on the Grave I Once Lived In. A graceful, dignified Black woman dancing joyfully in warm golden resurrection light over symbolic ground representing the old life — soft stone, blooming flowers, gently broken chains, water reflections, a rolled-away shadow. NOT a literal grave, no names/dates/markers, no cemetery details, nothing dark or morbid. Mood: joyful, free, victorious, sacred, celebratory. Only the one woman. Painterly, luminous; cream, gold, navy, and water-toned palette; clean negative space for a chapter title. Vertical 2:3, high resolution, no text, no watermark.
+
+## Generated Visual (Higgsfield) — pending Loretta approval
+- **Model:** nano_banana_2 (Higgsfield), 2:3
+- **Job ID:** `afb666ff-15b8-40ea-87d8-2cfb9f3cba3b`
+- **Visual URL:** https://d8j0ntlcm91z4.cloudfront.net/user_3E1AMf8iNHnvHb2OopsVVchSZzc/hf_20260705_014549_afb666ff-15b8-40ea-87d8-2cfb9f3cba3b.png
+- **Generated:** 2026-07-05
