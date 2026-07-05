@@ -2,7 +2,7 @@
 
 **Scripture:** Daniel 3:17–18 — "Our God whom we serve is able to deliver us… But if not, be it known unto thee… we will not serve thy gods…"
 **Theme:** Faith tested by fire, endurance, pressure, worship under trial, believing God even before deliverance
-**Status:** Pending Loretta Approval
+**Status:** Approved (Loretta) — 2026-07-03
 
 ---
 
