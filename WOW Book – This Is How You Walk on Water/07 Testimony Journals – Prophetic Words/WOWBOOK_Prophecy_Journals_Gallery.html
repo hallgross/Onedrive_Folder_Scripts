@@ -1,6 +1,6 @@
 <title>Prophecy Journals — This Is How You Walk on Water</title>
 <style>
-  :root{--gold:#d4af37;--gold-soft:#e6c35a;--ink:#f3ead2;--plum:#2a1533;}
+  :root{--gold:#d4af37;--gold-soft:#e6c35a;--ink:#f3ead2;}
   *{box-sizing:border-box;margin:0;padding:0}
   body{font-family:Georgia,'Times New Roman',serif;color:var(--ink);min-height:100vh;
     background:
@@ -11,7 +11,7 @@
   header{text-align:center;margin-bottom:44px}
   .kicker{letter-spacing:.35em;text-transform:uppercase;font-size:.72rem;color:var(--gold-soft);margin-bottom:14px}
   h1{font-size:2.1rem;line-height:1.25;color:#fff;text-shadow:0 2px 18px rgba(0,0,0,.6);margin-bottom:14px}
-  .verse{font-style:italic;color:#e9dfc7;max-width:640px;margin:0 auto;font-size:1.02rem;line-height:1.55}
+  .verse{font-style:italic;color:#e9dfc7;max-width:660px;margin:0 auto;font-size:1.02rem;line-height:1.55}
   .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:34px;margin-top:20px}
   figure{background:linear-gradient(135deg,rgba(212,175,55,.16),rgba(20,12,30,.35));
     border:1px solid rgba(212,175,55,.4);border-radius:16px;padding:16px;
@@ -19,10 +19,11 @@
   .mat{background:#f6efdd;border-radius:8px;padding:12px;border:1px solid rgba(0,0,0,.08)}
   .mat img{width:100%;display:block;border-radius:4px;box-shadow:0 4px 16px rgba(0,0,0,.35)}
   figcaption{margin-top:14px;text-align:center}
-  figcaption .t{color:var(--gold-soft);font-weight:bold;letter-spacing:.04em;font-size:1.02rem;margin-bottom:4px}
-  figcaption .d{color:#d9cfb6;font-style:italic;font-size:.9rem;line-height:1.4}
+  figcaption .t{color:var(--gold-soft);font-weight:bold;letter-spacing:.06em;font-size:1rem;margin-bottom:4px}
+  figcaption .d{color:#d9cfb6;font-style:italic;font-size:.88rem;line-height:1.4}
   footer{text-align:center;margin-top:56px;color:#cbb98f;font-style:italic;font-size:.95rem}
-  .note{max-width:720px;margin:26px auto 0;text-align:center;color:#cdbf9f;font-size:.86rem;line-height:1.5}
+  .note{max-width:740px;margin:26px auto 0;text-align:center;color:#cdbf9f;font-size:.86rem;line-height:1.5}
+  .miss{opacity:.55}
 </style>
 <div class="wrap">
   <header>
@@ -34,23 +35,23 @@
 
   <div class="grid" id="grid"></div>
 
-  <p class="note">Every page shown is Loretta's own handwriting — untouched — matted on the sacred draped backdrop so the
-  words carry the testimony. Full transcriptions live in <em>WOWBOOK_Prophecy_Journals_Transcription.md</em>.</p>
+  <p class="note">Every page is Loretta's own handwriting — untouched — matted on the sacred draped backdrop so the words
+  carry the testimony. Full transcriptions live in <em>WOWBOOK_Prophecy_Journals_Transcription.md</em>.
+  <br><b>Keep the <code>journal_extracted</code> folder beside this file</b> so the pages load.</p>
 
   <footer>Faith Over Fear — built to bless, carved on human hearts. ✨</footer>
 </div>
 <script>
-  const BASE="https://d2ol7oe51mr4n9.cloudfront.net/user_3E1AMf8iNHnvHb2OopsVVchSZzc/";
-  const pages=[
-    {id:"d0d57bd2-33a1-414d-a22d-cac832f023d7.jpg", t:"Mother of Many Nations", d:"“Rec'd 11/2025 — you shall eat the fruit of the Lamb.” (Isaiah 43:10; 44:3–4; Heb 11:12)"},
-    {id:"d9fe2338-5d91-414b-9948-3cf2cba1a42b.jpg", t:"The Flock of Birds Vision", d:"Pastor David Paul, Dec 1, 2001 — Divine Provision, miracle breakthroughs, the jar of honey."},
-    {id:"550414d5-f560-46d8-be0b-9e2c35426624.jpg", t:"Where the Scrolls Came From", d:"Prophecy 4.15.02 — “you are ‘Healed.’” A new assignment; burdens lifted."},
-    {id:"ee4c3934-1a50-4e3a-9a4d-87cab0e2eaf3.jpg", t:"Go Forth in Peace", d:"“I will do a new thing.” Where Divina came from (7/13/00); the Holy Spirit hovering (8/5/00)."}
+  // Loretta's local pages (journal_extracted/journal_page_01.jpg … 10.jpg) — self-hosted, no Higgsfield needed.
+  const captions = [
+    "Prophetic Word · I","Prophetic Word · II","Prophetic Word · III","Prophetic Word · IV","Prophetic Word · V",
+    "Prophetic Word · VI","Prophetic Word · VII","Prophetic Word · VIII","Prophetic Word · IX","Prophetic Word · X"
   ];
   const g=document.getElementById("grid");
-  pages.forEach(p=>{
+  for(let i=1;i<=10;i++){
+    const n=String(i).padStart(2,"0");
     g.insertAdjacentHTML("beforeend",
-      `<figure><div class="mat"><img src="${BASE}${p.id}" alt="${p.t}" loading="lazy"></div>
-       <figcaption><div class="t">${p.t}</div><div class="d">${p.d}</div></figcaption></figure>`);
-  });
+      `<figure><div class="mat"><img src="journal_extracted/journal_page_${n}.jpg" alt="Prophecy journal page ${i}" loading="lazy"></div>
+       <figcaption><div class="t">${captions[i-1]}</div></figcaption></figure>`);
+  }
 </script>
