@@ -22,3 +22,8 @@ Symbolic cinematic memoir book illustration for Chapter 2: Every Girl Needs a Ja
 ## In Loving Honor
 James is no longer here in the earth, but what he represented still speaks. His life reminds Loretta that covering matters, safety matters, and honor matters. Even after his passing, his role in the story remains part of the testimony.
 _(Tone: honorable, tender, grateful. Do NOT put "deceased" on the caption.)_
+
+## Generated Visual (Higgsfield) — pending Loretta approval
+- **Job ID:** `de7ea71b-c5b5-4e8b-9903-fb0df1301bfd`
+- **Visual URL:** https://d8j0ntlcm91z4.cloudfront.net/user_3E1AMf8iNHnvHb2OopsVVchSZzc/hf_20260710_100542_de7ea71b-c5b5-4e8b-9903-fb0df1301bfd.png
+- **Generated:** 2026-07-10
