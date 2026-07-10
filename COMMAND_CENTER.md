@@ -27,6 +27,8 @@
 | 📖 **WOW chapter assembly & approval (build per chapter, Loretta's pace)** | [Workflow](./WOW%20Book%20%E2%80%93%20This%20Is%20How%20You%20Walk%20on%20Water/WOWBOOK_Chapter_Assembly_Workflow.md) · board: [WOWBOOK_Chapter_Assembly_Tracker.csv](./WOW%20Book%20%E2%80%93%20This%20Is%20How%20You%20Walk%20on%20Water/WOWBOOK_Chapter_Assembly_Tracker.csv) |
 | 📷 **Real testimony visuals (Loretta's photos — by chapter, privacy-checked)** | [Folder + rules](./WOW%20Book%20%E2%80%93%20This%20Is%20How%20You%20Walk%20on%20Water/06%20Visuals%20for%20Book/08%20Real%20Testimony%20Visuals%20%E2%80%93%20Needs%20Review/READ_ME_Real_Testimony_Visuals.md) · log: [Real_Testimony_Visuals_Intake.csv](./WOW%20Book%20%E2%80%93%20This%20Is%20How%20You%20Walk%20on%20Water/06%20Visuals%20for%20Book/08%20Real%20Testimony%20Visuals%20%E2%80%93%20Needs%20Review/Real_Testimony_Visuals_Intake.csv) |
 | 📖 **WOW publishing workflow (1 master → many products)** | [WOW Book – This Is How You Walk on Water/WOW_PUBLISHING_WORKFLOW.md](./WOW%20Book%20%E2%80%93%20This%20Is%20How%20You%20Walk%20on%20Water/WOW_PUBLISHING_WORKFLOW.md) |
+| 🛒 **WOW Book — SELL-READY (full book, listing, launch checklist)** | [Full Book (print→PDF)](./WOW%20Book%20%E2%80%93%20This%20Is%20How%20You%20Walk%20on%20Water/00%20Full%20Book%20%E2%80%93%20Sell%20Ready/This_Is_How_You_Walk_on_Water_FULL_BOOK.html) · [Sales Listing](./WOW%20Book%20%E2%80%93%20This%20Is%20How%20You%20Walk%20on%20Water/00%20Full%20Book%20%E2%80%93%20Sell%20Ready/WOWBOOK_Sales_Listing.md) · [Launch Checklist](./WOW%20Book%20%E2%80%93%20This%20Is%20How%20You%20Walk%20on%20Water/00%20Full%20Book%20%E2%80%93%20Sell%20Ready/WOWBOOK_Launch_Checklist.md) |
+| 🎵 **WOW Book page + soundtrack** | [book-landing.html](./WOW%20Book%20%E2%80%93%20This%20Is%20How%20You%20Walk%20on%20Water/book-landing.html) · [Prophecy Journals gallery](./WOW%20Book%20%E2%80%93%20This%20Is%20How%20You%20Walk%20on%20Water/07%20Testimony%20Journals%20%E2%80%93%20Prophetic%20Words/WOWBOOK_Prophecy_Journals_Gallery.html) |
 | 🏛️ **WOW master chapters (Empire side)** | [WOW Book – This Is How You Walk on Water/WOW_Master_Chapters.csv](./WOW%20Book%20%E2%80%93%20This%20Is%20How%20You%20Walk%20on%20Water/WOW_Master_Chapters.csv) |
 | 🛍️ **WOW product family (Store side, status)** | [WOW Book – This Is How You Walk on Water/WOW_Product_Family.csv](./WOW%20Book%20%E2%80%93%20This%20Is%20How%20You%20Walk%20on%20Water/WOW_Product_Family.csv) |
 | 🔒 **Asset registry (link permanence — all images)** | [HHD_ASSET_REGISTRY.csv](./HHD_ASSET_REGISTRY.csv) |
@@ -42,6 +44,7 @@
 |------|--------|------------|-------|-------|--------|
 | Education Center Ebooks | `EDU` | Digital teaching guides / devotional ebooks (PDF) | $15.99 | 30 (EDU01–EDU30) | ✅ Listings ready to sell |
 | Juneteenth Collection | `JT` | Color Pop print-on-demand merch (Printify → shop) | $17.99–$49.99 | 25 (JT001–JT025) | ✅ Spec ready · publish to Printify |
+| **WOW Book** | `WOW` | Loretta's testimony memoir — eBook + paperback + hardcover/gift | **$9.99–$29.99** | 1 book (30 chapters + Divina interlude) | 🟡 **Sell prep ready** — content done, compile PDF + cover + list |
 
 > Add new product lines as new rows here so the command center always shows the full picture.
 
@@ -57,6 +60,18 @@
 - **Ebook files:** all 30 written PDFs in **[HHD_EDU_30_Ebooks_PDFs.zip](./HHD_EDU_30_Ebooks_PDFs.zip)** (filename = `SKU_Title`).
 - **One-file handoff for Manus:** **[HHD_EDU_MASTER_for_Manus.csv](./HHD_EDU_MASTER_for_Manus.csv)** — SKU · title · price · tagline · scripture · **cover URL** · PDF filename · description. Everything Manus needs (content + visuals) in a single sheet.
 - **Bundle ideas** are at the bottom of the listings file (Complete Library, Starter Set, Healing, Prayer & Family, Builder's).
+
+---
+
+## 📖 WOW Book — Sell-Ready Summary
+
+- **Title:** *This Is How You Walk on Water* — a Faith Over Fear testimony memoir by **Loretta Hall**.
+- **Content:** **30 chapters** (approved) + **Birth of Divina interlude** + finale reworked to **Mother of Many Nations: The Closing Commission**. 14 prophecy journals placed in-chapter; 13-track scroll-synced soundtrack on the page.
+- **Editions & pricing:** Digital eBook **$9.99** (launch first) · Paperback **$19.99** · Hardcover/Gift **$29.99** · free Waitlist.
+- **Full book (print-ready):** `00 Full Book – Sell Ready/This_Is_How_You_Walk_on_Water_FULL_BOOK.html` → open in Chrome, **Print → Save as PDF** = the sellable eBook.
+- **Listing copy:** `00 Full Book – Sell Ready/WOWBOOK_Sales_Listing.md` — paste into Payhip / Gumroad / Etsy.
+- **Next steps to money:** compile PDF → design one cover (Canva) → create listing at $9.99 → upload PDF → go live → email the waitlist. Print via KDP after. Full steps in `WOWBOOK_Launch_Checklist.md`.
+- **Flagship crossover:** pairs with the **WOW-PR Prayer Scrolls** as a faith gift set (keep WOWBOOK the book separate from WOWB/WOW-PR scroll products).
 
 ---
 
@@ -86,4 +101,4 @@ When advertising clothing, **Loretta is her own model.** Hero images, ads, and l
 - Price change? → update the maker list, the listings file, and the table here.
 - New document? → link it under **Quick Navigation** so it's never lost.
 
-*Last organized: 2026-06-25.*
+*Last organized: 2026-07-10 — WOW Book added as a sell-ready product line.*
