@@ -28,7 +28,29 @@
 1. **Rename Chapter 30 → "Mother of Many Nations"** — the closing commission. *(All 30 chapters are currently approved/locked; confirm before renaming.)*
 2. **Chapter 11** — optionally create a dedicated **"Birth of Divina"** section for the name's origin (7/13/00 + the 8/5/00 hovering).
 
-## ✅ Chapters that receive a journal insert
-Ch 1, 2, 8, 11, 12, 13, 21, 23, 24, 25, 29, 30 — each gets its matching journal page as a testimony insert (matted, gold-framed, on the draped backdrop), placed with the chapter text.
+## ✅ RECONCILED to the repo's actual 30 chapters (theme-matched — placed 2026-07-10)
+Loretta's map was written for her Downloads chapter lineup, which differs from this repo. Per her direction
+("no, don't change wrong book, continue"), each journal was placed into the **repo chapter it fits by theme:**
+
+| Journal / Prophetic Word | Repo Chapter (placed) |
+|--------------------------|------------------------|
+| "You have been chosen to know Me" (Isaiah 43:10) | **CH1 — In the Beginning: James and Margaret** |
+| "Mother of Many Nations" (Hebrews 11:12) | **CH4 — Mother of Many Nations** |
+| "What are you willing to give up to serve God?" (Luke 14:33) | **CH5 — The Footprint of Jesus in My Heart** |
+| The Scroll marked "Healed" (4.15.02) | **CH11 — The Hospital Stay: God Was in the Room** |
+| The 39 stripes / back scroll ("By His stripes I am healed") | **CH12 — Still Living With Rods: 39 Bolts, 39 Stripes** (image insert) |
+| Isaiah 43:19 — "Behold, I do a new thing… rivers in the desert" | **CH14 — The Water Did Not Drown Me** |
+| "Moving and flowing in the Gifts of the Holy Spirit" (1 Cor 12:7) | **CH15 — The Dove Experiences** |
+| Birds circling / Divine Provision / Elijah's ravens (1 Kings 17) | **CH17 — Small Animals in the Kitchen: God Speaks in Strange Places** |
+| "New assignment… lifting burdens off you" (4.15.02) | **CH18 — Daniel 10: Delayed Blessings** |
+| "The final hour has come… Restoration is in My house" (12/14/2000) | **CH22 — Dry Bones Rattling: It Is Finished** |
+| "Go forth in Peace… I will do a new thing" | **CH24 — I'm Coming Out at Midnight** |
+| "You shall eat the fruit of the Lamb" (11/2025) | **CH27 — Rise Above the Soil: Fruitful Emergence** |
+| "Faith is in your hands… doors no man can shut" (2/27/19) | **CH29 — I'm Dancing on the Grave I Once Lived In** |
+| "I will make you a Mother of Many Nations" (closing word) | **CH30 — This Is How You Walk on Water** (finale) |
+| Divina origin (7/13/00 + 8/5/00 hovering) | **Prophetic Interlude: The Birth of Divina** (after CH11) |
+
+Placed as gold-framed prophetic-word callouts on the book page — **no approved chapter wording changed.**
+Loretta may re-assign any line; captions make each match obvious.
 
 *Faith Over Fear — the word made the way. ✨*
