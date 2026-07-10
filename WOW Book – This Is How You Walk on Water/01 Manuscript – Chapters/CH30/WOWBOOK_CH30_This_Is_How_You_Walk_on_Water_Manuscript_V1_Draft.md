@@ -1,8 +1,8 @@
-# CH30 – This Is How You Walk on Water
+# CH30 – Mother of Many Nations *(The Closing Commission)*
 
-**Scripture:** Matthew 14:29 — "And he said, Come. And when Peter was come down out of the ship, he walked on the water, to go to Jesus."
-**Theme:** Faith, obedience, stepping out, water testimony, surrender, knowing God through the storm
-**Status:** Approved (Loretta) — 2026-07-03
+**Scripture:** Matthew 14:29 — "And he said, Come. And when Peter was come down out of the ship, he walked on the water, to go to Jesus." · **Closing:** Isaiah 55:5
+**Theme:** Faith, obedience, stepping out, water testimony, surrender, knowing God through the storm — and the calling it leads to: Mother of Many Nations
+**Status:** Approved (Loretta) — 2026-07-03 · Renamed to the closing commission per Loretta — 2026-07-10 (approved walk-on-water body kept unchanged; MMN commission added as the close)
 
 ---
 
@@ -140,6 +140,36 @@ I am still saying yes.
 
 This is how you walk on water.
 
+## The Closing Commission: Mother of Many Nations
+
+I have fought.
+
+I fought through foster care, through loss, through rejection, through sickness, through rods and reports and shadows and midnight seasons.
+
+But I have learned something I want you to carry out of this book:
+
+The fighting was never the destination. The calling was.
+
+Because before the fight ever touched me, God had already spoken. Over twenty years ago He gave me His word, and He has confirmed it again and again in my own journals:
+
+"I will make you a Mother of Many Nations."
+
+"Behold, thou shalt call a nation that thou knowest not, and nations that knew not thee shall run unto thee because of the LORD thy God." (Isaiah 55:5)
+
+So this is where the walk leads.
+
+Not just to standing on the water — but to being sent from it.
+
+I was not only chosen to survive. I was chosen to know Him. And I was called to mother nations.
+
+The water was the training.
+
+The calling is the commission.
+
+I am the Mother of Many Nations — and so is every daughter who will dare to walk out of the boat and toward the One who called her.
+
+This is how you walk on water. And this is where walking on water takes you: into the nations He named over you before you were ever formed.
+
 ## Reader Takeaway
 Walking on water is not about never facing storms. It is about trusting the voice of Jesus enough to step, keep looking at Him, and know Him in the middle of the waves.
 
@@ -152,6 +182,7 @@ I will walk by faith, not fear.
 The water is not stronger than His Word.
 I was not just chosen to survive; I was chosen to know Him.
 This is how I walk on water.
+And I am the Mother of Many Nations He named before I was ever formed.
 
 ---
 
