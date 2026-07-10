@@ -105,6 +105,21 @@ gold dust, faint dove + water motif, cream-gold vignette center. No text, no peo
 > **brand-new thing**. See, I have already begun! Do you not see it? I will make a pathway through the wilderness for my
 > people to come home. I will create rivers for them in the desert." **(Isaiah 43:18–19)**
 
+### 8. "Go Forth in Peace" — the New Thing, Divina's Origin & the Hovering *(→ brand origin / Holy Spirit covering)*
+> "Go forth in Peace."
+> "I will do a new thing."
+> "The set time is now."
+> "The second time will be better than the first, and you will know that God is in it."
+> "The two will become one."
+> **"How healing walks with every friendship."**
+> **"Preparing for Ministry"** *(Book)*
+>
+> **"Willy Inventions" — name given 7/13/00 AM. This is where Divina came from.**
+>
+> ✱ "A noise woke me up on the early morning of **8/5/00** — it was a sound of birds flapping over me. Of course I
+> thought there was a window open; it wasn't, so I went back to sleep. There was this warm feeling over me, and then
+> it happened again. I knew then it was the **Holy Spirit** giving me peace, hovering over me to let [me know…]"
+
 ---
 
 ## 🔗 How these feed the book
