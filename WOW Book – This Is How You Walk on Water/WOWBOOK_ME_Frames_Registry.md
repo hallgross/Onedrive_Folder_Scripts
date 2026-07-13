@@ -23,3 +23,9 @@
 **Still symbolic / real-media (not ME):** CH02 James (Army photo), CH08 Bubba (draped), CH20, CH30/I Rise, dove-kiss.
 
 **Blocked:** animating these into video — Higgsfield `generate_video` returns "requires approval" in this session. Grant approval to unblock all 13 animations at once.
+
+---
+## 🌅 I Rise finale — face images (Coral Soul, 2026-07-13)
+The uploaded I Rise video showed body only (no face). New finale face images generated; option 1 set as the finale video POSTER on all pages.
+- Option 1 (in use): https://d8j0ntlcm91z4.cloudfront.net/user_3E1AMf8iNHnvHb2OopsVVchSZzc/hf_20260713_184729_d5d9d27f-0802-4b4c-8082-058355667b41.png
+- Option 2 (alt): https://d8j0ntlcm91z4.cloudfront.net/user_3E1AMf8iNHnvHb2OopsVVchSZzc/hf_20260713_184729_63abfc8f-1274-4ef5-97d9-e8661250c342.png
