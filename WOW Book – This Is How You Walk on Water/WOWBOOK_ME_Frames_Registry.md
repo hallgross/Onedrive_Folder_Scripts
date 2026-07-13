@@ -29,3 +29,8 @@
 The uploaded I Rise video showed body only (no face). New finale face images generated; option 1 set as the finale video POSTER on all pages.
 - Option 1 (in use): https://d8j0ntlcm91z4.cloudfront.net/user_3E1AMf8iNHnvHb2OopsVVchSZzc/hf_20260713_184729_d5d9d27f-0802-4b4c-8082-058355667b41.png
 - Option 2 (alt): https://d8j0ntlcm91z4.cloudfront.net/user_3E1AMf8iNHnvHb2OopsVVchSZzc/hf_20260713_184729_63abfc8f-1274-4ef5-97d9-e8661250c342.png
+
+### Modest finale options (2026-07-13, shoulders covered)
+- ✅ IN USE — "I Rise" robed: https://d8j0ntlcm91z4.cloudfront.net/user_3E1AMf8iNHnvHb2OopsVVchSZzc/hf_20260713_185908_991b91b7-e5e2-4080-a148-46bb35b16432.png
+- ALT — "On Fire" robed: https://d8j0ntlcm91z4.cloudfront.net/user_3E1AMf8iNHnvHb2OopsVVchSZzc/hf_20260713_185911_e37fd769-3fbc-4389-a603-54c8beb7704b.png
+- (superseded — bare shoulders): d5d9d27f / 63abfc8f
