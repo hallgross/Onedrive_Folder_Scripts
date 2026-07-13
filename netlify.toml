@@ -1,0 +1,9 @@
+# Netlify config — publishes ONLY the public/ folder (keeps backoffice docs private)
+[build]
+  publish = "public"
+  command = ""
+
+[[redirects]]
+  from = "/wow-book"
+  to = "/wow-book/"
+  status = 301
