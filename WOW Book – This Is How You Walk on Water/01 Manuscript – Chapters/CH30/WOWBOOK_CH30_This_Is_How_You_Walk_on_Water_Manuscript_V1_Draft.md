@@ -1,4 +1,4 @@
-# CH30 – Mother of Many Nations *(The Closing Commission)*
+# CH30 – This Is How You Walk on Water
 
 **Scripture:** Matthew 14:29 — "And he said, Come. And when Peter was come down out of the ship, he walked on the water, to go to Jesus." · **Closing:** Isaiah 55:5
 **Theme:** Faith, obedience, stepping out, water testimony, surrender, knowing God through the storm — and the calling it leads to: Mother of Many Nations
