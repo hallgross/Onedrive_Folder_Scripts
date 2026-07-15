@@ -1,0 +1,79 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Connect — Heavenly Hands Divine</title>
+<style>
+:root{--gold:#d4af37;--gold2:#e6c35a;--ink:#f3ead2}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:Georgia,'Times New Roman',serif;color:var(--ink);min-height:100vh;
+background:radial-gradient(1200px 600px at 50% -10%,#241634,#0d0a16 60%)}
+.wrap{max-width:760px;margin:0 auto;padding:56px 20px 90px}
+a.back{color:var(--gold2);text-decoration:none;font-size:.9rem}
+.kick{letter-spacing:.32em;text-transform:uppercase;font-size:.72rem;color:var(--gold2);margin-top:22px}
+h1{font-size:2.3rem;color:#fff;margin:10px 0 6px}
+.sub{font-style:italic;color:#e9dfc7;margin-bottom:30px}
+.card{background:linear-gradient(135deg,rgba(212,175,55,.10),rgba(20,12,30,.4));border:1px solid rgba(212,175,55,.35);
+border-radius:16px;padding:22px;margin:20px 0}
+.card h2{color:var(--gold2);font-size:1.3rem;margin-bottom:4px}
+.card p.d{color:#d9cfb6;font-size:.92rem;margin-bottom:14px}
+label{display:block;font-size:.82rem;color:#cbbf9f;margin:10px 0 4px;letter-spacing:.02em}
+input,textarea,select{width:100%;padding:11px 12px;border-radius:10px;border:1px solid rgba(212,175,55,.4);
+background:rgba(10,8,16,.6);color:#f3ead2;font-family:inherit;font-size:.95rem}
+textarea{min-height:110px;resize:vertical}
+button{margin-top:14px;background:linear-gradient(135deg,#b8912f,#e6c35a);color:#1a1206;border:none;border-radius:999px;
+padding:12px 22px;font-weight:700;font-size:.95rem;cursor:pointer}
+footer{margin-top:40px;text-align:center;color:#cbb98f;font-style:italic;font-size:.9rem}
+</style></head><body>
+<div class="wrap">
+  <a class="back" href="/">← Home</a>
+  <div class="kick">Heavenly Hands Divine</div>
+  <h1>Connect With Us</h1>
+  <p class="sub">We would love to hear from you. Every message reaches us directly.</p>
+
+  <div class="card">
+    <h2>✉️ Contact</h2><p class="d">General questions, hellos, and anything on your heart.</p>
+    <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you/">
+      <input type="hidden" name="form-name" value="contact"><p hidden><label>Leave blank <input name="bot-field"></label></p>
+      <label>Your name</label><input name="name" required>
+      <label>Email</label><input name="email" type="email" required>
+      <label>Message</label><textarea name="message" required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+  </div>
+
+  <div class="card">
+    <h2>🙏 Prayer Request</h2><p class="d">Share your need — we will pray with you. Held in confidence.</p>
+    <form name="prayer-request" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you/">
+      <input type="hidden" name="form-name" value="prayer-request"><p hidden><label>Leave blank <input name="bot-field"></label></p>
+      <label>Your name (optional)</label><input name="name">
+      <label>Email (optional)</label><input name="email" type="email">
+      <label>Your prayer request</label><textarea name="request" required></textarea>
+      <button type="submit">Send Prayer Request</button>
+    </form>
+  </div>
+
+  <div class="card">
+    <h2>📦 Product Inquiry</h2><p class="d">Questions about the book, scrolls, or apparel.</p>
+    <form name="product-inquiry" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you/">
+      <input type="hidden" name="form-name" value="product-inquiry"><p hidden><label>Leave blank <input name="bot-field"></label></p>
+      <label>Your name</label><input name="name" required>
+      <label>Email</label><input name="email" type="email" required>
+      <label>Which product?</label>
+      <select name="product"><option>The WOW Book</option><option>A Prayer Scroll (WOW-PR)</option><option>Apparel / Color Pop</option><option>Education Center Ebook</option><option>Other</option></select>
+      <label>Your question</label><textarea name="message" required></textarea>
+      <button type="submit">Send Inquiry</button>
+    </form>
+  </div>
+
+  <div class="card">
+    <h2>🛟 Support</h2><p class="d">Order help, downloads, or anything not working right.</p>
+    <form name="support" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you/">
+      <input type="hidden" name="form-name" value="support"><p hidden><label>Leave blank <input name="bot-field"></label></p>
+      <label>Your name</label><input name="name" required>
+      <label>Email</label><input name="email" type="email" required>
+      <label>Order # (if any)</label><input name="order">
+      <label>How can we help?</label><textarea name="message" required></textarea>
+      <button type="submit">Get Support</button>
+    </form>
+  </div>
+
+  <footer>Faith Over Fear — every message is heard. ✨</footer>
+</div></body></html>
