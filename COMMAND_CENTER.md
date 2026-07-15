@@ -44,7 +44,7 @@
 |------|--------|------------|-------|-------|--------|
 | Education Center Ebooks | `EDU` | Digital teaching guides / devotional ebooks (PDF) | $15.99 | 30 (EDU01–EDU30) | ✅ Listings ready to sell |
 | Juneteenth Collection | `JT` | Color Pop print-on-demand merch (Printify → shop) | $17.99–$49.99 | 25 (JT001–JT025) | ✅ Spec ready · publish to Printify |
-| **WOW Book** | `WOW` | Loretta's testimony memoir — eBook + paperback + hardcover/gift | **$9.99–$29.99** | 1 book (30 chapters + Divina interlude) | 🟡 **Sell prep ready** — content done, compile PDF + cover + list |
+| **WOW Book** | `WOW` | Loretta's testimony memoir — eBook + paperback + hardcover/gift | **$9.99–$29.99** | 1 book (30 chapters + Divina interlude) | 🟢 **SITE LIVE** at `shop.heavenlyhandsdivine.com` · next: set up store/checkout ([Go To Market](./WOW%20Book%20%E2%80%93%20This%20Is%20How%20You%20Walk%20on%20Water/00%20Full%20Book%20%E2%80%93%20Sell%20Ready/WOWBOOK_GO_TO_MARKET.md)) |
 
 > Add new product lines as new rows here so the command center always shows the full picture.
 
